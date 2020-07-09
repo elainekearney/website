@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>sensorimotor adpatation | Elaine Kearney, Ph.D.</title>
+    <link>/tags/sensorimotor-adpatation/</link>
+      <atom:link href="/tags/sensorimotor-adpatation/index.xml" rel="self" type="application/rss+xml" />
+    <description>sensorimotor adpatation</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Elaine Kearney © 2020</copyright><lastBuildDate>Wed, 21 Aug 2019 13:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>sensorimotor adpatation</title>
+      <link>/tags/sensorimotor-adpatation/</link>
+    </image>
+    
+    <item>
+      <title>SimpleDIVA: A 3-parameter model for examining adaptation in speech and voice production</title>
+      <link>/talk/snl_2019/</link>
+      <pubDate>Wed, 21 Aug 2019 13:00:00 +0000</pubDate>
+      <guid>/talk/snl_2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

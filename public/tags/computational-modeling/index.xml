@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>computational modeling | Elaine Kearney, Ph.D.</title>
+    <link>/tags/computational-modeling/</link>
+      <atom:link href="/tags/computational-modeling/index.xml" rel="self" type="application/rss+xml" />
+    <description>computational modeling</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Elaine Kearney © 2020</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>computational modeling</title>
+      <link>/tags/computational-modeling/</link>
+    </image>
+    
+    <item>
+      <title>A simple 3-parameter model for examining adaptation in speech and voice production</title>
+      <link>/publication/2020_simplediva/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2020_simplediva/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SimpleDIVA: A 3-parameter model for examining adaptation in speech and voice production</title>
+      <link>/talk/snl_2019/</link>
+      <pubDate>Wed, 21 Aug 2019 13:00:00 +0000</pubDate>
+      <guid>/talk/snl_2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

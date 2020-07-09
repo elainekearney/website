@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Elaine Kearney, Ph.D.</title>
+    <link>/authors/giles/bailey/</link>
+      <atom:link href="/authors/giles/bailey/index.xml" rel="self" type="application/rss+xml" />
+    <description>Elaine Kearney, Ph.D.</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Elaine Kearney © 2020</copyright>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Elaine Kearney, Ph.D.</title>
+      <link>/authors/giles/bailey/</link>
+    </image>
+    
+  </channel>
+</rss>

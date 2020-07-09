@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>voice motor control | Elaine Kearney, Ph.D.</title>
+    <link>/tags/voice-motor-control/</link>
+      <atom:link href="/tags/voice-motor-control/index.xml" rel="self" type="application/rss+xml" />
+    <description>voice motor control</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Elaine Kearney © 2020</copyright><lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>voice motor control</title>
+      <link>/tags/voice-motor-control/</link>
+    </image>
+    
+    <item>
+      <title>Contributions of auditory and somatosensory feedback to vocal motor control</title>
+      <link>/publication/2020_vocalmotor/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2020_vocalmotor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A simple 3-parameter model for examining adaptation in speech and voice production</title>
+      <link>/publication/2020_simplediva/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2020_simplediva/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

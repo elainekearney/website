@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Elaine Kearney, Ph.D.</title>
+    <link>/authors/kulkarni/</link>
+      <atom:link href="/authors/kulkarni/index.xml" rel="self" type="application/rss+xml" />
+    <description>Elaine Kearney, Ph.D.</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Elaine Kearney © 2020</copyright><lastBuildDate>Thu, 22 Jun 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Elaine Kearney, Ph.D.</title>
+      <link>/authors/kulkarni/</link>
+    </image>
+    
+    <item>
+      <title>Game-Based Augmented Visual Feedback for Enlarging Speech Movements in Parkinson&#39;s Disease</title>
+      <link>/publication/2017_pd_motorlearning/</link>
+      <pubDate>Thu, 22 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/2017_pd_motorlearning/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Elaine Kearney, Ph.D.</title>
+    <link>/authors/tourville/</link>
+      <atom:link href="/authors/tourville/index.xml" rel="self" type="application/rss+xml" />
+    <description>Elaine Kearney, Ph.D.</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Elaine Kearney © 2020</copyright><lastBuildDate>Fri, 21 Jun 2019 13:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Elaine Kearney, Ph.D.</title>
+      <link>/authors/tourville/</link>
+    </image>
+    
+    <item>
+      <title>Investigating the neural mechanisms of speech rate, clarity, and emphasis</title>
+      <link>/talk/bsmcs_2019/</link>
+      <pubDate>Fri, 21 Jun 2019 13:00:00 +0000</pubDate>
+      <guid>/talk/bsmcs_2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

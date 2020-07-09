@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>cueing | Elaine Kearney, Ph.D.</title>
+    <link>/tags/cueing/</link>
+      <atom:link href="/tags/cueing/index.xml" rel="self" type="application/rss+xml" />
+    <description>cueing</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Elaine Kearney © 2020</copyright><lastBuildDate>Fri, 21 Jun 2019 13:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>cueing</title>
+      <link>/tags/cueing/</link>
+    </image>
+    
+    <item>
+      <title>Investigating the neural mechanisms of speech rate, clarity, and emphasis</title>
+      <link>/talk/bsmcs_2019/</link>
+      <pubDate>Fri, 21 Jun 2019 13:00:00 +0000</pubDate>
+      <guid>/talk/bsmcs_2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sentence-level movements in Parkinson&#39;s disease: Loud, clear, and slow speech</title>
+      <link>/publication/2017_pd_kinematics/</link>
+      <pubDate>Wed, 20 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/2017_pd_kinematics/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>speech intelligibility | Elaine Kearney, Ph.D.</title>
+    <link>/tags/speech-intelligibility/</link>
+      <atom:link href="/tags/speech-intelligibility/index.xml" rel="self" type="application/rss+xml" />
+    <description>speech intelligibility</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Elaine Kearney © 2020</copyright><lastBuildDate>Thu, 08 Nov 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>speech intelligibility</title>
+      <link>/tags/speech-intelligibility/</link>
+    </image>
+    
+    <item>
+      <title>Treating speech movement hypokinesia in Parkinson&#39;s disease: Does movement size matter?</title>
+      <link>/publication/2018_pdtreatment/</link>
+      <pubDate>Thu, 08 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/2018_pdtreatment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sentence-level movements in Parkinson&#39;s disease: Loud, clear, and slow speech</title>
+      <link>/publication/2017_pd_kinematics/</link>
+      <pubDate>Wed, 20 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/2017_pd_kinematics/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

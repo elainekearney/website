@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>signal processing | Elaine Kearney, Ph.D.</title>
+    <link>/tags/signal-processing/</link>
+      <atom:link href="/tags/signal-processing/index.xml" rel="self" type="application/rss+xml" />
+    <description>signal processing</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Elaine Kearney © 2020</copyright><lastBuildDate>Sun, 04 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>signal processing</title>
+      <link>/tags/signal-processing/</link>
+    </image>
+    
+    <item>
+      <title>Electromagnetic articulography (EMA) for real-time feedback application: Computational techniques</title>
+      <link>/publication/2019_ema_biofeedback/</link>
+      <pubDate>Sun, 04 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/2019_ema_biofeedback/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

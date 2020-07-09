@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>speech therapy | Elaine Kearney, Ph.D.</title>
+    <link>/tags/speech-therapy/</link>
+      <atom:link href="/tags/speech-therapy/index.xml" rel="self" type="application/rss+xml" />
+    <description>speech therapy</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Elaine Kearney © 2020</copyright><lastBuildDate>Tue, 01 Sep 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>speech therapy</title>
+      <link>/tags/speech-therapy/</link>
+    </image>
+    
+    <item>
+      <title>Outcome measures in developmental speech sound disorders with a motor basis</title>
+      <link>/publication/2015_ssd_outcomemeasures/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/2015_ssd_outcomemeasures/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

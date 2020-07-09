@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Parkinson&#39;s disease | Elaine Kearney, Ph.D.</title>
+    <link>/tags/parkinsons-disease/</link>
+      <atom:link href="/tags/parkinsons-disease/index.xml" rel="self" type="application/rss+xml" />
+    <description>Parkinson&#39;s disease</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Elaine Kearney © 2020</copyright><lastBuildDate>Wed, 01 May 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Parkinson&#39;s disease</title>
+      <link>/tags/parkinsons-disease/</link>
+    </image>
+    
+    <item>
+      <title>Augmented visual feedback-aided interventions for motor rehabilitation in Parkinson&#39;s disease: A systematic review</title>
+      <link>/publication/2019_visualfeedback_review/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/2019_visualfeedback_review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Treating speech movement hypokinesia in Parkinson&#39;s disease: Does movement size matter?</title>
+      <link>/publication/2018_pdtreatment/</link>
+      <pubDate>Thu, 08 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/2018_pdtreatment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sentence-level movements in Parkinson&#39;s disease: Loud, clear, and slow speech</title>
+      <link>/publication/2017_pd_kinematics/</link>
+      <pubDate>Wed, 20 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/2017_pd_kinematics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Game-Based Augmented Visual Feedback for Enlarging Speech Movements in Parkinson&#39;s Disease</title>
+      <link>/publication/2017_pd_motorlearning/</link>
+      <pubDate>Thu, 22 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/2017_pd_motorlearning/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

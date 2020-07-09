@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>children | Elaine Kearney, Ph.D.</title>
+    <link>/tags/children/</link>
+      <atom:link href="/tags/children/index.xml" rel="self" type="application/rss+xml" />
+    <description>children</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Elaine Kearney © 2020</copyright><lastBuildDate>Tue, 01 Sep 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>children</title>
+      <link>/tags/children/</link>
+    </image>
+    
+    <item>
+      <title>Outcome measures in developmental speech sound disorders with a motor basis</title>
+      <link>/publication/2015_ssd_outcomemeasures/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/2015_ssd_outcomemeasures/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Motor speech treatment protocol for developmental motor speech disorders</title>
+      <link>/publication/2015_mstp/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/2015_mstp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tongue–palate contact during selected vowels in children with speech sound disorders</title>
+      <link>/publication/2014_ssd_epg/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/2014_ssd_epg/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

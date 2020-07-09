@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Elaine Kearney, Ph.D.</title>
+    <link>/publication/</link>
+      <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Elaine Kearney © 2020</copyright><lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Publications</title>
+      <link>/publication/</link>
+    </image>
+    
+    <item>
+      <title>Contributions of auditory and somatosensory feedback to vocal motor control</title>
+      <link>/publication/2020_vocalmotor/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2020_vocalmotor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A simple 3-parameter model for examining adaptation in speech and voice production</title>
+      <link>/publication/2020_simplediva/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2020_simplediva/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Articulating: The neural mechanisms of speech production</title>
+      <link>/publication/2019_articulating/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/2019_articulating/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Electromagnetic articulography (EMA) for real-time feedback application: Computational techniques</title>
+      <link>/publication/2019_ema_biofeedback/</link>
+      <pubDate>Sun, 04 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/2019_ema_biofeedback/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards movement-based outcome measures for apraxia of speech: A systematic review</title>
+      <link>/publication/2019_aos_kinematics/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/2019_aos_kinematics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Augmented visual feedback-aided interventions for motor rehabilitation in Parkinson&#39;s disease: A systematic review</title>
+      <link>/publication/2019_visualfeedback_review/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/2019_visualfeedback_review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Treating speech movement hypokinesia in Parkinson&#39;s disease: Does movement size matter?</title>
+      <link>/publication/2018_pdtreatment/</link>
+      <pubDate>Thu, 08 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/2018_pdtreatment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sentence-level movements in Parkinson&#39;s disease: Loud, clear, and slow speech</title>
+      <link>/publication/2017_pd_kinematics/</link>
+      <pubDate>Wed, 20 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/2017_pd_kinematics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Game-Based Augmented Visual Feedback for Enlarging Speech Movements in Parkinson&#39;s Disease</title>
+      <link>/publication/2017_pd_motorlearning/</link>
+      <pubDate>Thu, 22 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/2017_pd_motorlearning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Outcome measures in developmental speech sound disorders with a motor basis</title>
+      <link>/publication/2015_ssd_outcomemeasures/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/2015_ssd_outcomemeasures/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Motor speech treatment protocol for developmental motor speech disorders</title>
+      <link>/publication/2015_mstp/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/2015_mstp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tongue–palate contact during selected vowels in children with speech sound disorders</title>
+      <link>/publication/2014_ssd_epg/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/2014_ssd_epg/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

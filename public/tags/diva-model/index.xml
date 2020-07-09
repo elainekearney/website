@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DIVA model | Elaine Kearney, Ph.D.</title>
+    <link>/tags/diva-model/</link>
+      <atom:link href="/tags/diva-model/index.xml" rel="self" type="application/rss+xml" />
+    <description>DIVA model</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Elaine Kearney © 2020</copyright><lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>DIVA model</title>
+      <link>/tags/diva-model/</link>
+    </image>
+    
+    <item>
+      <title>Articulating: The neural mechanisms of speech production</title>
+      <link>/publication/2019_articulating/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/2019_articulating/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SimpleDIVA: A 3-parameter model for examining adaptation in speech and voice production</title>
+      <link>/talk/snl_2019/</link>
+      <pubDate>Wed, 21 Aug 2019 13:00:00 +0000</pubDate>
+      <guid>/talk/snl_2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
