@@ -11,12 +11,12 @@ Eight of nine participants benefited from training, increasing their sentence AW
 **Conclusions**:
 This study demonstrated the feasibility of augmented visual feedback via articulatory kinematics for training movement enlargement in patients with hypokinesia due to PD."
 authors:
-- yunusova
-- admin
-- kulkarni
-- haworth
-- baljko
-- faloutsos
+- Y. Yunusova
+- E. Kearney
+- M. Kulkarni
+- B. Haworth
+- M. Baljko
+- P. Faloutsos
 date: "2017-06-22T00:00:00Z"
 doi: "10.1044/2017_JSLHR-S-16-0233"
 featured: false

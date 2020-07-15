@@ -11,10 +11,10 @@ Eight single-group studies and 10 randomized control trials were included in the
 **Conclusion**:
 Augmented visual feedback appears to be a useful motor rehabilitation tool in Parkinson's disease; however, high-quality, rigorous studies remain limited. Future studies should consider factors that enhance rehabilitation outcomes when designing augmented visual feedback-based interventions. Implications for rehabilitation Augmented visual feedback is a useful tool for motor rehabilitation in Parkinson's disease; augmented visual feedback-based treatments are often superior to traditional programs. These treatments are associated with improved outcomes in impairment, activity, participation, and global motor function domains. Rehabilitation professionals can optimize their use of augmented visual feedback-based treatments by providing large amounts and a high intensity of treatment, gamifying feedback, and providing knowledge of performance feedback in real-time and at a high frequency."
 authors:
-- admin
-- shellikeri
-- martino
-- yunusova
+- E. Kearney
+- S. Shellikeri
+- R. Martino
+- Y. Yunusova
 date: "2019-05-01T00:00:00Z"
 doi: "10.1080/09638288.2017.1419292"
 featured: false

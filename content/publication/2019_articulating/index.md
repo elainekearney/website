@@ -12,8 +12,8 @@ range of experimental findings, including data on articulatory kinematics and br
 during normal and perturbed speech. Furthermore, the model is being used to investigate a
 wide range of communication disorders."
 authors:
-- admin
-- guenther
+- E. Kearney
+- F.H. Guenther
 date: "2019-09-01T00:00:00Z"
 doi: "10.1080/23273798.2019.1589541"
 featured: false

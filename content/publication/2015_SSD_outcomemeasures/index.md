@@ -1,11 +1,11 @@
 ---
 abstract: "One challenging area of speech-language pathology is evaluating treatment change in children with speech sound disorder (SSD) with a motor basis. A clinician’s knowledge and use of outcome measures following treatment are central to evidence-based practice. This narrative review evaluates the use of outcome measures to assess treatment change in motor-based SSDs. Seven databases were searched to identify studies reporting outcomes of treatment in SSDs between 1985 and 2014. Sixty-six studies were identified for analysis, and reported outcome measures were categorized within the International Classification of Functioning, Disability and Health framework (ICF-CY). The majority of studies used perceptual methods (despite their limitations) to evaluate change at the impairment level of the ICF-CY and only three studies examined participation level factors. Accurate outcome measures that reflect the underlying deficit of the SSD as well as activity/participation level factors need to be implemented to document intervention success in this population."
 authors:
-- admin
-- granata
-- yunusova
-- vanlieshout
-- namasivayam
+- E. Kearney
+- F. Granata
+- Y. Yunusova
+- P. van Lieshout
+- A. Namasivayam
 date: "2015-09-01T00:00:00Z"
 doi: "10.1007/s40474-015-0058-2"
 featured: false

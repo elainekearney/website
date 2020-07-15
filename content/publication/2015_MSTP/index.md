@@ -10,13 +10,13 @@ All participants demonstrated significant change between baseline and maintenanc
 **Conclusion**:
 These results provide preliminary evidence that the MSTP, which integrates multi-sensory information and utilizes hierarchical goal selection, may positively impact speech sound production by improving speech motor control in this population."
 authors:
-- namasivayam
-- pukonen
-- hard
-- jahnke
-- admin
-- kroll
-- vanlieshout
+- A.K. Namasivayam
+- M. Pukonen
+- J. Hard
+- R. Jahnke
+- E. Kearney
+- R. Kroll
+- P. van Lieshout
 date: "2015-01-01T00:00:00Z"
 doi: "10.3109/17518423.2013.832431"
 featured: false
