@@ -1,12 +1,11 @@
-<!DOCTYPE html>
-<html lang="en-us">
+<!DOCTYPE html><html lang="en-us" >
 
 <head>
 
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="generator" content="Source Themes Academic 4.5.0">
+  <meta name="generator" content="Source Themes Academic 4.8.0">
 
   
 
@@ -21,7 +20,7 @@
   
   
 
-  <meta name="author" content="Elaine Kearney">
+  
 
   
   
@@ -44,12 +43,15 @@
 
   
   
+
+  
+  
   
   
     
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.0/css/all.css" integrity="sha384-aOkxzJ5uQz7WBObEZcHvV5JvRW3TUc2rNPA7pe3AwnsUohiw1Vj2Rgx2KSOkF5+h" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.css" integrity="sha256-ygkqlh3CYSUri3LhQxzdcm0n1EQvH2Y+U5S2idbLtxs=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.0-1/css/all.min.css" integrity="sha256-4w9DunooKSr3MFXHXWyFER38WmPdm361bQS/2KUWZbU=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous">
 
     
     
@@ -60,51 +62,212 @@
       
       
         
-          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/styles/github.min.css" crossorigin="anonymous" title="hl-light">
-          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" disabled>
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/styles/github.min.css" crossorigin="anonymous" title="hl-light">
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" disabled>
         
       
     
 
     
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.2.0/leaflet.css" integrity="sha512-M2wvCLH6DSRazYeZRIm1JnYyh22purTM+FDB5CsyxtQJYeKq83arPe5wgbNmcFXGqiSH2XR8dT/fJISVA1r/zQ==" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.5.1/leaflet.css" integrity="sha256-SHMGCYmST46SoyGgo4YR/9AlK1vf3ff84Aq9yK4hdqM=" crossorigin="anonymous">
     
 
     
 
+    
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/lazysizes/5.1.2/lazysizes.min.js" integrity="sha256-Md1qLToewPeKjfAHU1zyPwOutccPAm5tahnaw7Osw0A=" crossorigin="anonymous" async></script>
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+        
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+
   
 
   
   
   
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Cutive+Mono%7CLora:400,700%7CRoboto:400,700&display=swap">
+    
+      
+      
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Cutive+Mono%7CLora:400,700%7CRoboto:400,700&display=swap">
+    
   
 
   
   
   
-  <link rel="stylesheet" href="/css/academic.min.083c52c4ce30ca27ddcdf70e088a3ce4.css">
+  
+  <link rel="stylesheet" href="/css/academic.css">
 
   
 
+
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-118929294-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-118929294-1', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
-
-
   
-
+  
+  <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+  
 
   
   <link rel="alternate" href="/index.xml" type="application/rss+xml" title="Elaine Kearney, Ph.D.">
   
 
   <link rel="manifest" href="/index.webmanifest">
-  <link rel="icon" type="image/png" href="/img/icon-32.png">
-  <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
+  <link rel="icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_32x32_fill_lanczos_center_2.png">
+  <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_2.png">
 
   <link rel="canonical" href="/">
 
+  
+  
+  
   
   
   
@@ -121,8 +284,8 @@
   <meta property="og:site_name" content="Elaine Kearney, Ph.D.">
   <meta property="og:url" content="/">
   <meta property="og:title" content="Elaine Kearney, Ph.D.">
-  <meta property="og:description" content="Postdoctoral Research Associate"><meta property="og:image" content="/img/icon-192.png">
-  <meta property="twitter:image" content="/img/icon-192.png"><meta property="og:locale" content="en-us">
+  <meta property="og:description" content="Postdoctoral Research Associate"><meta property="og:image" content="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png">
+  <meta property="twitter:image" content="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
   
     <meta property="og:updated_time" content="2020-07-01T00:00:00&#43;00:00">
   
@@ -158,7 +321,6 @@
   <title>Elaine Kearney, Ph.D.</title>
 
 </head>
-
 <body id="top" data-spy="scroll" data-offset="70" data-target="#navbar-main" >
 
   <aside class="search-results" id="search">
@@ -177,7 +339,7 @@
       <div id="search-box">
         
         <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
-        autocomplete="off" autocorrect="off" spellcheck="false" type="search">
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search" class="form-control">
         
       </div>
 
@@ -194,24 +356,43 @@
 
 
   
-<nav class="navbar navbar-light fixed-top navbar-expand-lg py-0 compensate-for-scrollbar" id="navbar-main">
+
+
+
+
+
+
+
+
+
+<nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
   <div class="container">
 
     
+    <div class="d-none d-lg-inline-flex">
       <a class="navbar-brand" href="/">Elaine Kearney, Ph.D.</a>
-      
-      <button type="button" class="navbar-toggler" data-toggle="collapse"
-              data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
-        <span><i class="fas fa-bars"></i></span>
-      </button>
-      
+    </div>
+    
 
     
-    <div class="collapse navbar-collapse" id="navbar">
+    <button type="button" class="navbar-toggler" data-toggle="collapse"
+            data-target="#navbar-content" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+    <span><i class="fas fa-bars"></i></span>
+    </button>
+    
+
+    
+    <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+      <a class="navbar-brand" href="/">Elaine Kearney, Ph.D.</a>
+    </div>
+    
+
+    
+    
+    <div class="navbar-collapse main-menu-item collapse justify-content-end" id="navbar-content">
 
       
-      
-      <ul class="navbar-nav ml-auto">
+      <ul class="navbar-nav d-md-inline-flex">
         
 
         
@@ -375,24 +556,39 @@
       
 
         
-
-        
-        <li class="nav-item">
-          <a class="nav-link js-search" href="#"><i class="fas fa-search" aria-hidden="true"></i></a>
-        </li>
-        
-
-        
-
-        
-        <li class="nav-item">
-          <a class="nav-link js-dark-toggle" href="#"><i class="fas fa-moon" aria-hidden="true"></i></a>
-        </li>
-        
-
       </ul>
-
     </div>
+
+    <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+      
+      <li class="nav-item">
+        <a class="nav-link js-search" href="#" aria-label="Search"><i class="fas fa-search" aria-hidden="true"></i></a>
+      </li>
+      
+
+      
+      <li class="nav-item dropdown theme-dropdown">
+        <a href="#" class="nav-link js-theme-selector" data-toggle="dropdown" aria-haspopup="true">
+          <i class="fas fa-palette" aria-hidden="true"></i>
+        </a>
+        <div class="dropdown-menu">
+          <a href="#" class="dropdown-item js-set-theme-light">
+            <span>Light</span>
+          </a>
+          <a href="#" class="dropdown-item js-set-theme-dark">
+            <span>Dark</span>
+          </a>
+          <a href="#" class="dropdown-item js-set-theme-auto">
+            <span>Automatic</span>
+          </a>
+        </div>
+      </li>
+      
+
+      
+
+    </ul>
+
   </div>
 </nav>
 
@@ -414,14 +610,15 @@
 
 
 
+
+  
+  
+  
   
 
 
 
 
-
-
-
   
   
   
@@ -432,6 +629,9 @@
 
   
 
+  
+
+  
   
 
   
@@ -469,17 +669,18 @@
 
 
 
+
 <div class="row">
   <div class="col-12 col-lg-4">
     <div id="profile">
 
       
       
-      <img class="portrait" src="/authors/admin/avatar_huaf6ca8e9701a9c288a2b335e807a9437_1013760_250x250_fill_q90_lanczos_center.jpg" alt="Avatar">
+      <img class="avatar avatar-circle" src="/authors/admin/avatar_huaf6ca8e9701a9c288a2b335e807a9437_1013760_270x270_fill_q90_lanczos_center.jpg" alt="">
       
 
       <div class="portrait-title">
-        <h2>Elaine Kearney</h2>
+        <h2></h2>
         <h3>Postdoctoral Research Associate</h3>
 
         
@@ -582,7 +783,6 @@
     <h1>About me</h1>
 
     <p>I am a Postdoctoral Research Associate in the Department of Speech, Language, and Hearing Sciences at Boston University. My research investigates the sensorimotor control of speech in acquired motor speech disorders with a view to expanding the evidence-based treatment options available to these populations.</p>
-
 <p>At the Speech Neuroscience Laboratory at Boston University, I am examining the neural correlates of auditory and somatosensory feedback control in speech production in individuals with Parkinson&rsquo;s Disease using functional brain-imaging methods. This line of research has implications for our understanding of both normal and disordered speech motor control, and has the potential to guide future directions of speech rehabilitation research in Parkinson&rsquo;s Disease.</p>
 
 
@@ -652,6 +852,9 @@
   
 
   
+  
+
+  
 
   
   
@@ -695,6 +898,14 @@
 
 
 
+
+
+
+
+
+  
+
+
 <div class="row">
   <div class="col-12 col-lg-4 section-heading">
     <h1>Featured Publications</h1>
@@ -727,7 +938,6 @@
     
 
 
-
 <div class="article-metadata">
 
   
@@ -737,11 +947,8 @@
   <div>
     
 
-
-
   
-  <span>Elaine Kearney</span>, <span>Alfonso Nieto-Castanon</span>, <span>Hasini R. Weerathunge</span>, <span>Riccardo Falsini</span>, <span>Ayoub Daliri</span>, <span>Defne Abur</span>, <span>Kirrie J. Ballard</span>, <span>Soo-Eun Chang</span>, <span>Sara-Ching Chao</span>, <span>Elizabeth S. Heller Murray</span>, <span>Terri L. Scott</span>, <span>Frank H. Guenther</span>
-
+  <span >admin</span>, <span >nietocastanon</span>, <span >weerathunge</span>, <span >falsini</span>, <span >daliri</span>, <span >abur</span>, <span >ballard</span>, <span >chang</span>, <span >chao</span>, <span >heller</span>, <span >scott</span>, <span >guenther</span>
   </div>
   
   
@@ -774,8 +981,6 @@
   
   
 
-  
-
 </div>
 
   
@@ -785,7 +990,7 @@
   
   
   <a href="/publication/2020_simplediva/">
-      <img src="/publication/2020_simplediva/featured_hu54b3dc2150c925dda6e3ad278b092056_929411_918x517_fill_q90_lanczos_smart1.jpg" class="article-banner" alt="">
+      <img src="/publication/2020_simplediva/featured_hu54b3dc2150c925dda6e3ad278b092056_929411_918x517_fill_q90_lanczos_smart1.jpg" class="article-banner" alt="A simple 3-parameter model for examining adaptation in speech and voice production">
   </a>
   
 
@@ -794,9 +999,11 @@
   </h3>
 
   
-  <div class="article-style">
-    <p>Sensorimotor adaptation experiments are commonly used to examine motor learning behavior and to uncover information about the underlying control mechanisms of many motor behaviors, including speech production. In the speech and voice domains, aspects of the acoustic signal are shifted/perturbed over time via auditory feedback manipulations. In response, speakers alter their production in the opposite direction of the shift so that their perceived production is closer to what they intended. This process relies on a combination of feedback and feedforward control mechanisms that are difficult to disentangle. The current study describes and tests a simple 3-parameter mathematical model that quantifies the relative contribution of feedback and feedforward control mechanisms to sensorimotor adaptation. The model is a simplified version of the DIVA model, an adaptive neural network model of speech motor control. The three fitting parameters of SimpleDIVA are associated with the three key subsystems involved in speech motor control, namely auditory feedback control, somatosensory feedback control, and feedforward control. The model is tested through computer simulations that identify optimal model fits to six existing sensorimotor adaptation datasets. We show its utility in (1) interpreting the results of adaptation experiments involving the first and second formant frequencies as well as fundamental frequency; (2) assessing the effects of masking noise in adaptation paradigms; (3) fitting more than one perturbation dimension simultaneously; (4) examining sensorimotor adaptation at different timepoints in the production signal; and (5) quantitatively predicting responses in one experiment using parameters derived from another experiment. The model simulations produce excellent fits to real data across different types of perturbations and experimental paradigms (mean correlation between data and model fits across all six studies = .95 ± .02). The model parameters provide a mechanistic explanation for the behavioral responses to the adaptation paradigm that are not readily available from the behavioral responses alone. Overall, SimpleDIVA offers new insights into speech and voice motor control and has the potential to inform future directions of speech rehabilitation research in disordered populations. Simulation software, including an easy-to-use graphical user interface, is publicly available to facilitate the use of the model in future studies.</p>
-  </div>
+  <a href="/publication/2020_simplediva/" class="summary-link">
+    <div class="article-style">
+      <p>Sensorimotor adaptation experiments are commonly used to examine motor learning behavior and to uncover information about the underlying control mechanisms of many motor behaviors, including speech production. In the speech and voice domains, aspects of the acoustic signal are shifted/perturbed over time via auditory feedback manipulations. In response, speakers alter their production in the opposite direction of the shift so that their perceived production is closer to what they intended. This process relies on a combination of feedback and feedforward control mechanisms that are difficult to disentangle. The current study describes and tests a simple 3-parameter mathematical model that quantifies the relative contribution of feedback and feedforward control mechanisms to sensorimotor adaptation. The model is a simplified version of the DIVA model, an adaptive neural network model of speech motor control. The three fitting parameters of SimpleDIVA are associated with the three key subsystems involved in speech motor control, namely auditory feedback control, somatosensory feedback control, and feedforward control. The model is tested through computer simulations that identify optimal model fits to six existing sensorimotor adaptation datasets. We show its utility in (1) interpreting the results of adaptation experiments involving the first and second formant frequencies as well as fundamental frequency; (2) assessing the effects of masking noise in adaptation paradigms; (3) fitting more than one perturbation dimension simultaneously; (4) examining sensorimotor adaptation at different timepoints in the production signal; and (5) quantitatively predicting responses in one experiment using parameters derived from another experiment. The model simulations produce excellent fits to real data across different types of perturbations and experimental paradigms (mean correlation between data and model fits across all six studies = .95 ± .02). The model parameters provide a mechanistic explanation for the behavioral responses to the adaptation paradigm that are not readily available from the behavioral responses alone. Overall, SimpleDIVA offers new insights into speech and voice motor control and has the potential to inform future directions of speech rehabilitation research in disordered populations. Simulation software, including an easy-to-use graphical user interface, is publicly available to facilitate the use of the model in future studies.</p>
+    </div>
+  </a>
   
 
   
@@ -853,6 +1060,8 @@
       
     
 
+  
+
   </div>
 </div>
 
@@ -869,6 +1078,9 @@
 
   
 
+  
+
+  
   
 
   
@@ -913,6 +1125,7 @@
 
 
 
+
   
 
 
@@ -942,11 +1155,7 @@
   </div>
   <div class="col-12 col-lg-8">
 
-    <div class="alert alert-note">
-  <div>
-    Quickly discover relevant content by <a href="/publication/">filtering publications</a>.
-  </div>
-</div>
+    <!-- raw HTML omitted -->
 
 
     
@@ -978,9 +1187,11 @@
     </h3>
 
     
-    <div class="article-style">
-      <p><strong>Purpose:</strong> To better define the contributions of somatosensory and auditory feedback in vocal motor control, a laryngeal perturbation …</p>
-    </div>
+    <a href="/publication/2020_vocalmotor/" class="summary-link">
+      <div class="article-style">
+        <p><strong>Purpose:</strong> To better define the contributions of somatosensory and auditory feedback in vocal motor control, a laryngeal perturbation …</p>
+      </div>
+    </a>
     
 
     <div class="stream-meta article-metadata">
@@ -991,11 +1202,8 @@
       <div>
         
 
-
-
   
-  <span>Dante J. Smith</span>, <span>Cara E. Stepp</span>, <span>Frank H. Guenther</span>, <span>Elaine Kearney</span>
-
+  <span >smith</span>, <span >stepp</span>, <span >guenther</span>, <span >admin</span>
       </div>
       
     </div>
@@ -1086,9 +1294,11 @@
     </h3>
 
     
-    <div class="article-style">
-      Speech production is a highly complex sensorimotor task involving tightly coordinated processing across large expanses of the cerebral …
-    </div>
+    <a href="/publication/2019_articulating/" class="summary-link">
+      <div class="article-style">
+        Speech production is a highly complex sensorimotor task involving tightly coordinated processing across large expanses of the cerebral …
+      </div>
+    </a>
     
 
     <div class="stream-meta article-metadata">
@@ -1099,11 +1309,8 @@
       <div>
         
 
-
-
   
-  <span>Elaine Kearney</span>, <span>Frank H. Guenther</span>
-
+  <span >admin</span>, <span >guenther</span>
       </div>
       
     </div>
@@ -1194,9 +1401,11 @@
     </h3>
 
     
-    <div class="article-style">
-      The application of state-of-the-art signal processing often differs between offline and online real-time application domains. Offline …
-    </div>
+    <a href="/publication/2019_ema_biofeedback/" class="summary-link">
+      <div class="article-style">
+        The application of state-of-the-art signal processing often differs between offline and online real-time application domains. Offline …
+      </div>
+    </a>
     
 
     <div class="stream-meta article-metadata">
@@ -1207,11 +1416,8 @@
       <div>
         
 
-
-
   
-  <span>Brandon M. Haworth</span>, <span>Elaine Kearney</span>, <span>Petros Faloustsos</span>, <span>Melanie Baljko</span>, <span>Yana Yunusova</span>
-
+  <span >haworth</span>, <span >admin</span>, <span >faloutsos</span>, <span >baljko</span>, <span >yunusova</span>
       </div>
       
     </div>
@@ -1296,9 +1502,11 @@
     </h3>
 
     
-    <div class="article-style">
-      <p><strong>Background</strong>: Apraxia of speech (AOS) is defined as a disorder of articulatory movements, yet a cohesive account of the movement deficit …</p>
-    </div>
+    <a href="/publication/2019_aos_kinematics/" class="summary-link">
+      <div class="article-style">
+        <p><strong>Background</strong>: Apraxia of speech (AOS) is defined as a disorder of articulatory movements, yet a cohesive account of the movement deficit …</p>
+      </div>
+    </a>
     
 
     <div class="stream-meta article-metadata">
@@ -1309,11 +1517,8 @@
       <div>
         
 
-
-
   
-  <span>Kristen Bailey</span>, <span>Elaine Kearney</span>, <span>Elizabeth Roberts</span>, <span>Yana Yunusova</span>
-
+  <span >bailey</span>, <span >admin</span>, <span >roberts</span>, <span >yunusova</span>
       </div>
       
     </div>
@@ -1404,9 +1609,11 @@
     </h3>
 
     
-    <div class="article-style">
-      <p><strong>Purpose</strong>: A systematic review was performed to (1) evaluate the effectiveness of augmented visual feedback-based treatments for motor …</p>
-    </div>
+    <a href="/publication/2019_visualfeedback_review/" class="summary-link">
+      <div class="article-style">
+        <p><strong>Purpose</strong>: A systematic review was performed to (1) evaluate the effectiveness of augmented visual feedback-based treatments for motor …</p>
+      </div>
+    </a>
     
 
     <div class="stream-meta article-metadata">
@@ -1417,11 +1624,8 @@
       <div>
         
 
-
-
   
-  <span>Elaine Kearney</span>, <span>Sanjana Shellikeri</span>, <span>Rosemary Martino</span>, <span>Yana Yunusova</span>
-
+  <span >admin</span>, <span >shellikeri</span>, <span >martino</span>, <span >yunusova</span>
       </div>
       
     </div>
@@ -1513,6 +1717,9 @@
   
 
   
+  
+
+  
 
   
   
@@ -1542,6 +1749,7 @@
 
 
   
+
 
 
 
@@ -1629,11 +1837,8 @@
       <div>
         
 
-
-
   
-  <span>Elaine Kearney</span>, <span>Dante J. Smith</span>, <span>Cara E. Stepp</span>, <span>Frank H. Guenther</span>
-
+  <span >admin</span>, <span >smith</span>, <span >stepp</span>, <span >guenther</span>
       </div>
       
     </div>
@@ -1732,11 +1937,8 @@
       <div>
         
 
-
-
   
-  <span>Elaine Kearney</span>, <span>Alfonso Nieto-Castanon</span>, <span>Ayoub Daliri</span>, <span>Frank H. Guenther</span>
-
+  <span >admin</span>, <span >nietocastanon</span>, <span >daliri</span>, <span >guenther</span>
       </div>
       
     </div>
@@ -1835,11 +2037,8 @@
       <div>
         
 
-
-
   
-  <span>Elaine Kearney</span>, <span>Jason A. Tourville</span>, <span>Alfonso Nieto-Castanon</span>, <span>Frank H. Guenther</span>
-
+  <span >admin</span>, <span >tourville</span>, <span >nietocastanon</span>, <span >guenther</span>
       </div>
       
     </div>
@@ -1915,6 +2114,9 @@
   
 
   
+  
+
+  
 
   
   
@@ -1967,6 +2169,7 @@
 
 
 
+
   
 
 
@@ -1984,7 +2187,6 @@
   <div class="col-12 col-lg-8">
 
     <p>During my PhD, I guest lectured or taught the following courses at the University of Toronto:</p>
-
 <ul>
 <li>Principles of Clinical Practice</li>
 <li>Motor Speech Disorders</li>
@@ -1994,9 +2196,7 @@
 <li>Linguistics in the Workforce: Clinical Practice and Research</li>
 <li>Adult Language Disorders</li>
 </ul>
-
 <p>As a postdoctoral researcher, I taught the following course at Boston University:</p>
-
 <ul>
 <li>Research Methods in Speech-Language Pathology and Audiology</li>
 </ul>
@@ -2022,6 +2222,9 @@
 
   
 
+  
+
+  
   
 
   
@@ -2054,7 +2257,7 @@
       
     </div>
     <div class="col-12 col-lg-8">
-      <p><a class="twitter-timeline" data-width="500" data-height="500" href="https://twitter.com/ek_kearney?ref_src=twsrc%5Etfw">Tweets by ek_kearney</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+      <p><!-- raw HTML omitted -->Tweets by ek_kearney<!-- raw HTML omitted --> <!-- raw HTML omitted --><!-- raw HTML omitted --></p>
 
     </div>
   
@@ -2073,6 +2276,9 @@
 
   
 
+  
+
+  
   
 
   
@@ -2128,6 +2334,7 @@
       
       
       
+      
 
       <div class="tag-cloud">
         
@@ -2144,27 +2351,27 @@
           
           
           
-          <a href="/tags/auditory-feedback/" style="font-size:1.967970000576925rem">auditory feedback</a>
+          <a href="/tags/auditory-feedback/" style="font-size:1.1516600272428636rem">auditory feedback</a>
         
           
           
           
-          <a href="/tags/augmented-visual-feedback/" style="font-size:2.3rem">augmented visual feedback</a>
+          <a href="/tags/augmented-visual-feedback/" style="font-size:1.2699314993728354rem">augmented visual feedback</a>
         
           
           
           
-          <a href="/tags/children/" style="font-size:1.967970000576925rem">children</a>
+          <a href="/tags/children/" style="font-size:1.1516600272428636rem">children</a>
         
           
           
           
-          <a href="/tags/computational-modeling/" style="font-size:1.5rem">computational modeling</a>
+          <a href="/tags/computational-modeling/" style="font-size:0.9849657496864177rem">computational modeling</a>
         
           
           
           
-          <a href="/tags/cueing/" style="font-size:1.5rem">cueing</a>
+          <a href="/tags/cueing/" style="font-size:0.9849657496864177rem">cueing</a>
         
           
           
@@ -2174,62 +2381,62 @@
           
           
           
-          <a href="/tags/diva-model/" style="font-size:1.5rem">DIVA model</a>
+          <a href="/tags/diva-model/" style="font-size:0.9849657496864177rem">DIVA model</a>
         
           
           
           
-          <a href="/tags/kinematics/" style="font-size:2.55754247590989rem">kinematics</a>
+          <a href="/tags/kinematics/" style="font-size:1.361669980277533rem">kinematics</a>
         
           
           
           
-          <a href="/tags/neuroimaging/" style="font-size:1.5rem">neuroimaging</a>
+          <a href="/tags/neuroimaging/" style="font-size:0.9849657496864177rem">neuroimaging</a>
         
           
           
           
-          <a href="/tags/outcome-measures/" style="font-size:1.5rem">outcome measures</a>
+          <a href="/tags/outcome-measures/" style="font-size:0.9849657496864177rem">outcome measures</a>
         
           
           
           
-          <a href="/tags/parkinsons-disease/" style="font-size:2.3rem">Parkinson&#39;s disease</a>
+          <a href="/tags/parkinsons-disease/" style="font-size:1.2699314993728354rem">Parkinson&#39;s disease</a>
         
           
           
           
-          <a href="/tags/sensory-acuity/" style="font-size:1.5rem">sensory acuity</a>
+          <a href="/tags/sensory-acuity/" style="font-size:0.9849657496864177rem">sensory acuity</a>
         
           
           
           
-          <a href="/tags/somatosensory-feedback/" style="font-size:1.5rem">somatosensory feedback</a>
+          <a href="/tags/somatosensory-feedback/" style="font-size:0.9849657496864177rem">somatosensory feedback</a>
         
           
           
           
-          <a href="/tags/speech-intelligibility/" style="font-size:1.5rem">speech intelligibility</a>
+          <a href="/tags/speech-intelligibility/" style="font-size:0.9849657496864177rem">speech intelligibility</a>
         
           
           
           
-          <a href="/tags/speech-motor-control/" style="font-size:2.767970000576925rem">speech motor control</a>
+          <a href="/tags/speech-motor-control/" style="font-size:1.4366257769292814rem">speech motor control</a>
         
           
           
           
-          <a href="/tags/speech-sound-disorder/" style="font-size:1.967970000576925rem">speech sound disorder</a>
+          <a href="/tags/speech-sound-disorder/" style="font-size:1.1516600272428636rem">speech sound disorder</a>
         
           
           
           
-          <a href="/tags/systematic-review/" style="font-size:1.5rem">systematic review</a>
+          <a href="/tags/systematic-review/" style="font-size:0.9849657496864177rem">systematic review</a>
         
           
           
           
-          <a href="/tags/voice-motor-control/" style="font-size:1.5rem">voice motor control</a>
+          <a href="/tags/voice-motor-control/" style="font-size:0.9849657496864177rem">voice motor control</a>
         
       </div>
     
@@ -2250,6 +2457,9 @@
 
   
 
+  
+
+  
   
 
   
@@ -2295,7 +2505,7 @@
     
 
     <div class="mb-3">
-      <form name="contact" method="POST" action="https://formspree.io/ekearney@bu.edu">
+      <form name="contact" method="POST" action="https://formspree.io/ekearney@bu.edu"  >
         <div class="form-group form-inline">
           <label class="sr-only" for="inputName">Name</label>
           <input type="text" name="name" class="form-control w-100" id="inputName" placeholder="Name" required>
@@ -2308,6 +2518,8 @@
           <label class="sr-only" for="inputMessage">Message</label>
           <textarea name="message" class="form-control" id="inputMessage" rows="5" placeholder="Message" required></textarea>
         </div>
+        
+        
         <button type="submit" class="btn btn-outline-primary px-3 py-2">Send</button>
       </form>
     </div>
@@ -2322,15 +2534,9 @@
       
       
         
-        
-        
-        
-        
-        
-        
         <li>
           <i class="fa-li fas fa-map-marker fa-2x" aria-hidden="true"></i>
-          <span id="person-address">Boston, MA, United States</span>
+          <span id="person-address">Boston, MA </span>
         </li>
       
 
@@ -2359,37 +2565,37 @@
 
     
     
-
     
-    
-    
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
       <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
       <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.js" integrity="sha256-X5PoE3KU5l+JcX+w09p/wHl9AzK333C4hJ2I9S5mD4M=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js" integrity="sha256-yt2kYMy0w8AbtF89WXb2P1rfjcP/HTHLT7097U8Y5b8=" crossorigin="anonymous"></script>
 
       
 
       
         
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/highlight.min.js" integrity="sha256-aYTdUrn6Ow1DDgh5JTc3aDGnnju48y/1c8s1dgkYPQ8=" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/highlight.min.js" integrity="sha256-eOgo0OtLL4cdq7RdwRUiGKLX9XsIJ7nGhWEKbohmVAQ=" crossorigin="anonymous"></script>
         
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/languages/r.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/languages/r.min.js"></script>
         
       
 
-      
-      
     
 
     
     
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.2.0/leaflet.js" integrity="sha512-lInM/apFSqyy1o6s89K4iQUKg6ppXEgsVxT35HbzUupEVRh2Eu9Wdl4tHj7dZO0s1uvplcYGmt3498TtHq+log==" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.5.1/leaflet.js" integrity="sha256-EErZamuLefUnbMBQbsEqu1USa+btR2oIlCpBJbyD4/g=" crossorigin="anonymous"></script>
     
 
     
     
-    <script>hljs.initHighlightingOnLoad();</script>
+    <script>const code_highlighting = true;</script>
+    
+
+    
+    
+    <script>const isSiteThemeDark = false;</script>
     
 
     
@@ -2405,7 +2611,8 @@
         'post': "Posts",
         'project': "Projects",
         'publication' : "Publications",
-        'talk' : "Talks"
+        'talk' : "Talks",
+        'slides' : "Slides"
         };
     </script>
     
@@ -2439,6 +2646,21 @@
 
     
     
+    <script>
+      if (window.netlifyIdentity) {
+        window.netlifyIdentity.on("init", user => {
+          if (!user) {
+            window.netlifyIdentity.on("login", () => {
+              document.location.href = "/admin/";
+            });
+          }
+        });
+      }
+    </script>
+    
+
+    
+    
 
     
     
@@ -2454,7 +2676,7 @@
     
     
     
-    <script src="/js/academic.min.d6bd04fdad2ad213aa8111c5a3b72fc5.js"></script>
+    <script src="/js/academic.min.66c553246b0f279a03be6e5597f72b52.js"></script>
 
     
 
@@ -2463,6 +2685,7 @@
 
 
 
+  
   
   <div class="container">
     <footer class="site-footer">
@@ -2479,8 +2702,18 @@
   
 
   <p class="powered-by">
-    Elaine Kearney &copy; 2020 &middot; 
+    Elaine Kearney © 2020
+  </p>
 
+  
+  
+
+
+
+
+
+
+  <p class="powered-by">
     Powered by the
     <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
     <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
