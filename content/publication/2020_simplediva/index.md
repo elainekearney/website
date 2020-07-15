@@ -10,7 +10,7 @@ authors:
 - K.J. Ballard
 - S-E. Chang
 - S-C. Chao
-- E.S Heller Murray
+- E.S. Heller Murray
 - T.L. Scott
 - F.H. Guenther
 date: "2020-01-01T00:00:00Z"

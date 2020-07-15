@@ -13,7 +13,7 @@ The findings indicate that somatosensory and auditory feedback control mechanism
 authors:
 - D.J. Smith
 - C.E. Stepp
-- F.G. Guenther
+- F.H. Guenther
 - E. Kearney
 date: "2020-07-01T00:00:00Z"
 doi: "https://doi.org/10.1044/2020_JSLHR-19-00296"
