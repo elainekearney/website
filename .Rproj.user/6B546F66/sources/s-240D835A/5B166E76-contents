@@ -1,7 +1,0 @@
-install.packages("blogdown")
-library(blogdown)
-ver
-library(blogdown)
-getwd
-getwd()
-setwd("/Users/ekearney/Dropbox/Website_2.0/")

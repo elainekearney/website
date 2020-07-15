@@ -1,3 +1,0 @@
-setwd("/Users/ekearney/Dropbox/Website_2.0")
-blogdown::build_site()
-blogdown::serve_site()
