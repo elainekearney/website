@@ -11,12 +11,12 @@ Speakers with PD demonstrated significantly smaller jaw movements as well as sho
 **Conclusions**:
 Sentence-level measures of articulatory movements are sensitive to both disease-related changes in PD and speaking-style manipulations."
 authors:
-- admin
-- giles
-- haworth
-- faloutsos
-- baljko
-- yunusova
+- E. Kearney
+- R. Giles
+- B. Haworth
+- P. Faloutsos
+- M. Baljko
+- Y. Yunusova
 date: "2017-12-20T00:00:00Z"
 doi: "10.1044/2017_JSLHR-S-17-0075"
 featured: false

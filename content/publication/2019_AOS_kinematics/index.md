@@ -7,10 +7,10 @@ abstract: "**Background**: Apraxia of speech (AOS) is defined as a disorder of a
 
 **Conclusions**: Movement-based evaluation provides a promising avenue for the assessment and treatment of AOS, including potential target-selection and measurement of treatment outcomes."
 authors:
-- bailey
-- admin
-- roberts
-- yunusova
+- K. Bailey
+- E. Kearney
+- E. Roberts
+- Y. Yunusova
 date: "2019-08-01T00:00:00Z"
 doi: "10.1080/02687038.2018.1510111"
 featured: false

@@ -11,12 +11,12 @@ During treatment, 4/5 participants showed a beneficial effect of visual feedback
 **Conclusions**:
 This study demonstrated that using an augmented visual feedback approach is beneficial, beyond a verbal cue alone, in addressing articulatory hypokinesia in individuals with PD. An optimal degree of articulatory expansion might, however, be required to elicit a speech intelligibility benefit."
 authors:
-- admin
-- haworth
-- scholl
-- faloutsos
-- baljko
-- yunusova
+- E. Kearney
+- B. Haworth
+- J. Scholl
+- P. Faloutsos
+- M. Baljko
+- Y. Yunusova
 date: "2018-11-08T00:00:00Z"
 doi: "10.1044/2018_JSLHR-S-17-0439"
 featured: false

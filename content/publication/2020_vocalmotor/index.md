@@ -11,10 +11,10 @@ Compensatory responses to the laryngeal perturbation were observed with and with
 **Conclusions:** 
 The findings indicate that somatosensory and auditory feedback control mechanisms work together to compensate for laryngeal perturbations, resulting in the greatest degree of compensation when both sources of feedback are available. In contrast, these two control mechanisms work in competition in response to auditory perturbations, resulting in an overall smaller degree of compensation."
 authors:
-- smith
-- stepp
-- guenther
-- admin
+- D.J. Smith
+- C.E. Stepp
+- F.H. Guenther
+- E. Kearney
 date: "2020-07-01T00:00:00Z"
 doi: "https://doi.org/10.1044/2020_JSLHR-19-00296"
 featured: false
