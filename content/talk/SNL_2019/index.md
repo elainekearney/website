@@ -4,7 +4,7 @@ address:
   city: Helsinki
   country: Finland
 all_day: true
-authors: [admin, nietocastanon, daliri, guenther]
+authors:
 - E. Kearney
 - A. Nieto-Castanon
 - A. Daliri
