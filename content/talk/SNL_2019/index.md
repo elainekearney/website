@@ -5,6 +5,10 @@ address:
   country: Finland
 all_day: true
 authors: [admin, nietocastanon, daliri, guenther]
+- E. Kearney
+- A. Nieto-Castanon
+- A. Daliri
+- F.H. Guenther
 date: "2019-08-21T13:00:00Z"
 date_end: ""
 event: 11th Annual Meeting of the Society for the Neurobiology of Language
