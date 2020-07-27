@@ -4,7 +4,11 @@ address:
   city: Santa Barbara, CA
   country: USA
 all_day: true
-authors: [admin, smith, stepp, guenther]
+authors:
+- E. Kearney
+- D.J. Smith
+- C.E. Stepp
+- F.H. Guenther
 date: "2020-02-20T13:00:00Z"
 date_end: ""
 event: 20th Biennial Conference on Motor Speech
