@@ -4,7 +4,11 @@ address:
   city: Boston
   country: USA
 all_day: true
-authors: [admin, tourville, nietocastanon, guenther]
+authors: 
+- E. Kearney
+- J.A. Tourville
+- A. Nieto-Castanon
+- F.H. Guenther
 date: "2019-06-21T13:00:00Z"
 date_end: ""
 event: The Boston Speech Motor Control Symposium
