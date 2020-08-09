@@ -72,22 +72,18 @@ subtitle = ""
 
 To date, I have taught two courses to clinical MSc. students of Speech-Language Pathology:
 
-- Research Methods in Speech-Language Pathology and Audiology, MSc., Boston University, Fall 2019
-- Principles of Clinical Practice, MHSc., University of Toronto, Fall 2017
+- **Research Methods in Speech-Language Pathology and Audiology**, MSc., Boston University
+- **Principles of Clinical Practice**, MHSc., University of Toronto
 
-## Teaching Assistant/Guest Lecturer
+## Guest Lecturer
 
-I have also assisted in teaching or guest lectured in a number of courses - both at undergraduate and MSc. levels:
+I have also guest lectured in a number of Speech, Language, and Hearing Sciences programs — from undergraduate to Ph.D.-level:
 
-* Neural Control of Speech, MSc./Ph.D., Boston University
-* Neuromotor Speech Disorders, MSc., Massachusetts General Hospital - Institute of Health Professions
-* Motor Speech Disorders, MHSc., University of Toronto
-* Articulation and Related Disorders, MHSc., University of Toronto
-* Research in Speech-Language Pathology, MHSc., University of Toronto
-* Neurocognitive Communication, MHSc., University of Toronto
-* Augmentative and Alternative Communication, MHSc., University of Toronto
-* Advanced Principles of Clinical Practice, MHSc., University of Toronto
-* Applied Audiology, MHSc., University of Toronto
-* Linguistics in the Workforce: Clinical Practice and Research, BSc., University of Toronto
-* Adult Language Disorders, BSc., University of Toronto
-
+* **Neural Control of Speech**, MSc./Ph.D., Boston University
+* **Neuromotor Speech Disorders**, MSc., Massachusetts General Hospital - Institute of Health Professions
+* **Motor Speech Disorders**, MHSc., University of Toronto
+* **Articulation and Related Disorders**, MHSc., University of Toronto
+* **Research in Speech-Language Pathology**, MHSc., University of Toronto
+* **Advanced Principles of Clinical Practice**, MHSc., University of Toronto
+* **Linguistics in the Workforce: Clinical Practice and Research**, BSc., University of Toronto
+* **Adult Language Disorders**, BSc., University of Toronto
