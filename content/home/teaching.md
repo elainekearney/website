@@ -68,22 +68,20 @@ subtitle = ""
  css_class = ""
 +++
 
-# Course Instructor
+## Course Instructor
+- Research Methods in Speech-Language Pathology and Audiology, MSc., Boston University, Fall 2019
+- Principles of Clinical Practice, MHSc., University of Toronto, Fall 2017
 
-- Research Methods in Speech-Language Pathology and Audiology, Boston University, Fall 2019
-
-- Principles of Clinical Practice, University of Toronto, Fall 2017
-
-# Teaching Assistant/Guest Lecturer
+## Teaching Assistant/Guest Lecturer
 
 During my PhD at the University of Toronto, I assisted in teaching or guest lectured in the following courses (2013-2017):
+* Motor Speech Disorders, MHSc.
+* Articulation and Related Disorders, MHSc.
+* Research in Speech-Language Pathology, MHSc.
+* Neurocognitive Communication, MHSc.
+* Augmentative and Alternative Communication, MHSc.
+* Advanced Principles of Clinical Practice, MHSc.
+* Applied Audiology, MHSc.
+* Linguistics in the Workforce: Clinical Practice and Research, BSc.
+* Adult Language Disorders, BSc.
 
-* Motor Speech Disorders
-* Articulation and Related Disorders
-* Research in Speech-Language Pathology
-* Neurocognitive Communication
-* Augmentative and Alternative Communication
-* Advanced Principles of Clinical Practice
-* Linguistics in the Workforce: Clinical Practice and Research
-* Adult Language Disorders
-* Applied Audiology
