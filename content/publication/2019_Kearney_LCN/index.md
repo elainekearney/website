@@ -18,7 +18,7 @@ date: "2019-09-01T00:00:00Z"
 doi: "10.1080/23273798.2019.1589541"
 featured: false
 image:
-  caption: 
+  caption: "Photo by Robina Weermeijer on Unsplash"
   focal_point: ""
   preview_only: false
 projects: []
