@@ -39,7 +39,7 @@ tags:
 title: "Contributions of auditory and somatosensory feedback to vocal motor control"
 url_code: ""
 url_dataset: ""
-url_pdf: "/files/Smith_JSLHR_2020.pdf"
+url_pdf: "/files/Smith_2020_JSLHR_AcceptedManuscript.pdf"
 url_poster: ""
 url_project: ""
 url_slides: ""
