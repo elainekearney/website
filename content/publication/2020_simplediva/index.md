@@ -37,7 +37,7 @@ tags:
 title: "A simple 3-parameter model for examining adaptation in speech and voice production"
 url_code: ""
 url_dataset: ""
-url_pdf: "/files/SimpleDIVA_Kearney_FrontPsychol_2020.pdf"
+url_pdf: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
