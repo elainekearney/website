@@ -19,7 +19,7 @@ date: "2019-05-01T00:00:00Z"
 doi: "10.1080/09638288.2017.1419292"
 featured: false
 image:
-  caption: 
+  caption: "Photo by Engin Akyurt on Unsplash"
   focal_point: ""
   preview_only: false
 projects: []

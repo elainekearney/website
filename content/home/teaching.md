@@ -72,18 +72,18 @@ subtitle = ""
 
 To date, I have taught two courses to clinical MSc. students of Speech-Language Pathology:
 
-- **Research Methods in Speech-Language Pathology and Audiology**, MSc., Boston University
-- **Principles of Clinical Practice**, MHSc., University of Toronto
+- Research Methods in Speech-Language Pathology and Audiology (Boston University)
+- Principles of Clinical Practice (University of Toronto)
 
 ## Guest Lecturer
 
 I have also guest lectured in a number of Speech, Language, and Hearing Sciences programs — from undergraduate to Ph.D. level:
 
-* **Neural Control of Speech**, MSc./Ph.D., Boston University
-* **Neuromotor Speech Disorders**, MSc., Massachusetts General Hospital - Institute of Health Professions
-* **Motor Speech Disorders**, MHSc., University of Toronto
-* **Articulation and Related Disorders**, MHSc., University of Toronto
-* **Research in Speech-Language Pathology**, MHSc., University of Toronto
-* **Advanced Principles of Clinical Practice**, MHSc., University of Toronto
-* **Linguistics in the Workforce: Clinical Practice and Research**, BSc., University of Toronto
-* **Adult Language Disorders**, BSc., University of Toronto
+* Neural Control of Speech (Boston University)
+* Neuromotor Speech Disorders (Massachusetts General Hospital - Institute of Health Professions)
+* Motor Speech Disorders (University of Toronto)
+* Articulation and Related Disorders (University of Toronto)
+* Research in Speech-Language Pathology (University of Toronto)
+* Advanced Principles of Clinical Practice (University of Toronto)
+* Linguistics in the Workforce: Clinical Practice and Research (University of Toronto)
+* Adult Language Disorders (University of Toronto)

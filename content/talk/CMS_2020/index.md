@@ -22,7 +22,7 @@ links:
 #  icon_pack: fab
 #  name: Follow
 #  url: https://twitter.com/georgecushen
-location: Rtiz Carlton
+location: Ritz Carlton
 math: true
 #projects:
 #- internal-project

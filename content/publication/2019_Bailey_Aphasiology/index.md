@@ -15,7 +15,7 @@ date: "2019-08-01T00:00:00Z"
 doi: "10.1080/02687038.2018.1510111"
 featured: false
 image:
-  caption: 
+  caption: "Photo by Markus Winkler on Unsplash"
   focal_point: ""
   preview_only: false
 projects: []
