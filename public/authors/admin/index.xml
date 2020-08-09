@@ -5,84 +5,12 @@
     <link>/authors/admin/</link>
       <atom:link href="/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     <description>Elaine Kearney, Ph.D.</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Elaine Kearney © 2020</copyright><lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Elaine Kearney © 2020</copyright><lastBuildDate>Tue, 05 Feb 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Elaine Kearney, Ph.D.</title>
       <link>/authors/admin/</link>
     </image>
-    
-    <item>
-      <title>Contributions of auditory and somatosensory feedback to vocal motor control</title>
-      <link>/publication/2020_vocalmotor/</link>
-      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/2020_vocalmotor/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Contributions of auditory and somatosensory feedback to vocal motor control</title>
-      <link>/talk/cms_2020/</link>
-      <pubDate>Thu, 20 Feb 2020 13:00:00 +0000</pubDate>
-      <guid>/talk/cms_2020/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A simple 3-parameter model for examining adaptation in speech and voice production</title>
-      <link>/publication/2020_simplediva/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/2020_simplediva/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Articulating: The neural mechanisms of speech production</title>
-      <link>/publication/2019_articulating/</link>
-      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/2019_articulating/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SimpleDIVA: A 3-parameter model for examining adaptation in speech and voice production</title>
-      <link>/talk/snl_2019/</link>
-      <pubDate>Wed, 21 Aug 2019 13:00:00 +0000</pubDate>
-      <guid>/talk/snl_2019/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Electromagnetic articulography (EMA) for real-time feedback application: Computational techniques</title>
-      <link>/publication/2019_ema_biofeedback/</link>
-      <pubDate>Sun, 04 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/2019_ema_biofeedback/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Towards movement-based outcome measures for apraxia of speech: A systematic review</title>
-      <link>/publication/2019_aos_kinematics/</link>
-      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/2019_aos_kinematics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Investigating the neural mechanisms of speech rate, clarity, and emphasis</title>
-      <link>/talk/bsmcs_2019/</link>
-      <pubDate>Fri, 21 Jun 2019 13:00:00 +0000</pubDate>
-      <guid>/talk/bsmcs_2019/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Augmented visual feedback-aided interventions for motor rehabilitation in Parkinson&#39;s disease: A systematic review</title>
-      <link>/publication/2019_visualfeedback_review/</link>
-      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/2019_visualfeedback_review/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Display Jupyter Notebooks with Academic</title>
@@ -126,30 +54,6 @@ date: 2019-09-01
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;example&#34;&gt;Example&lt;/h2&gt;
 &lt;p&gt;This post was created with Jupyter. The orginal files can be found at &lt;a href=&#34;https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter&#34;&gt;https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter&lt;/a&gt;&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Treating speech movement hypokinesia in Parkinson&#39;s disease: Does movement size matter?</title>
-      <link>/publication/2018_pdtreatment/</link>
-      <pubDate>Thu, 08 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/2018_pdtreatment/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sentence-level movements in Parkinson&#39;s disease: Loud, clear, and slow speech</title>
-      <link>/publication/2017_pd_kinematics/</link>
-      <pubDate>Wed, 20 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/2017_pd_kinematics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Game-Based Augmented Visual Feedback for Enlarging Speech Movements in Parkinson&#39;s Disease</title>
-      <link>/publication/2017_pd_motorlearning/</link>
-      <pubDate>Thu, 22 Jun 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/2017_pd_motorlearning/</guid>
-      <description></description>
     </item>
     
     <item>
@@ -294,30 +198,6 @@ date: 2019-09-01
 &lt;p&gt;Released under the 
 &lt;a href=&#34;https://github.com/gcushen/hugo-academic/blob/master/LICENSE.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Outcome measures in developmental speech sound disorders with a motor basis</title>
-      <link>/publication/2015_ssd_outcomemeasures/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/2015_ssd_outcomemeasures/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Motor speech treatment protocol for developmental motor speech disorders</title>
-      <link>/publication/2015_mstp/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/2015_mstp/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tongue–palate contact during selected vowels in children with speech sound disorders</title>
-      <link>/publication/2014_ssd_epg/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>/publication/2014_ssd_epg/</guid>
-      <description></description>
     </item>
     
   </channel>

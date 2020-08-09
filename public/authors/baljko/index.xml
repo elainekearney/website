@@ -5,44 +5,12 @@
     <link>/authors/baljko/</link>
       <atom:link href="/authors/baljko/index.xml" rel="self" type="application/rss+xml" />
     <description>Elaine Kearney, Ph.D.</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Elaine Kearney © 2020</copyright><lastBuildDate>Sun, 04 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Elaine Kearney © 2020</copyright>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Elaine Kearney, Ph.D.</title>
       <link>/authors/baljko/</link>
     </image>
-    
-    <item>
-      <title>Electromagnetic articulography (EMA) for real-time feedback application: Computational techniques</title>
-      <link>/publication/2019_ema_biofeedback/</link>
-      <pubDate>Sun, 04 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/2019_ema_biofeedback/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Treating speech movement hypokinesia in Parkinson&#39;s disease: Does movement size matter?</title>
-      <link>/publication/2018_pdtreatment/</link>
-      <pubDate>Thu, 08 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/2018_pdtreatment/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sentence-level movements in Parkinson&#39;s disease: Loud, clear, and slow speech</title>
-      <link>/publication/2017_pd_kinematics/</link>
-      <pubDate>Wed, 20 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/2017_pd_kinematics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Game-Based Augmented Visual Feedback for Enlarging Speech Movements in Parkinson&#39;s Disease</title>
-      <link>/publication/2017_pd_motorlearning/</link>
-      <pubDate>Thu, 22 Jun 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/2017_pd_motorlearning/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>
