@@ -38,7 +38,7 @@ tags:
 title: "Augmented visual feedback-aided interventions for motor rehabilitation in Parkinson's disease: A systematic review"
 url_code: ""
 url_dataset: ""
-url_pdf: "/files/Kearney_DAR_2019_.pdf"
+url_pdf: "/files/Kearney_DAR_2019.pdf"
 url_poster: ""
 url_project: ""
 url_slides: ""
