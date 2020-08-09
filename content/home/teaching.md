@@ -77,7 +77,7 @@ To date, I have taught two courses to clinical MSc. students of Speech-Language 
 
 ## Guest Lecturer
 
-I have also guest lectured in a number of Speech, Language, and Hearing Sciences programs — from undergraduate to Ph.D.-level:
+I have also guest lectured in a number of Speech, Language, and Hearing Sciences programs — from undergraduate to Ph.D. level:
 
 * **Neural Control of Speech**, MSc./Ph.D., Boston University
 * **Neuromotor Speech Disorders**, MSc., Massachusetts General Hospital - Institute of Health Professions

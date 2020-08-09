@@ -1,3 +1,0 @@
-setwd("/Users/ekearney/Repos/Website/")
-blogdown::build_site()
-blogdown::serve_site()

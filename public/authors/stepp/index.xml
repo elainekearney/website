@@ -5,28 +5,12 @@
     <link>/authors/stepp/</link>
       <atom:link href="/authors/stepp/index.xml" rel="self" type="application/rss+xml" />
     <description>Elaine Kearney, Ph.D.</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Elaine Kearney © 2020</copyright><lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Elaine Kearney © 2020</copyright>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Elaine Kearney, Ph.D.</title>
       <link>/authors/stepp/</link>
     </image>
-    
-    <item>
-      <title>Contributions of auditory and somatosensory feedback to vocal motor control</title>
-      <link>/publication/2020_vocalmotor/</link>
-      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/2020_vocalmotor/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Contributions of auditory and somatosensory feedback to vocal motor control</title>
-      <link>/talk/cms_2020/</link>
-      <pubDate>Thu, 20 Feb 2020 13:00:00 +0000</pubDate>
-      <guid>/talk/cms_2020/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>
