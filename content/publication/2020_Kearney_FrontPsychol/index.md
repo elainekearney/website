@@ -21,7 +21,7 @@ image:
   focal_point: ""
   preview_only: false
 projects: []
-publication: '*Frontiers in Psychology, 10*(2995)'
+publication: '*Frontiers in Psychology, 10*(2995), 2039-2053'
 publication_short: ""
 publication_types:
 - "2"
