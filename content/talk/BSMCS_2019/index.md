@@ -34,7 +34,7 @@ tags:
 - cueing
 title: Investigating the neural mechanisms of speech rate, clarity, and emphasis
 #url_code: ""
-url_pdf: "/files/SRATE_EKearney_BSMCS_2019.pdf"
+url_pdf: "/files/Kearney_BSMCS_2019.pdf"
 #url_slides: ""
 #url_video: ""
 ---

@@ -36,7 +36,7 @@ tags:
 - sensory acuity
 title: "Contributions of auditory and somatosensory feedback to vocal motor control"
 #url_code: ""
-url_pdf: "files/Motor Speech2020_FINAL.pdf"
+url_pdf: "files/Kearney_CMS_2020.pdf"
 #url_slides: ""
 #url_video: ""
 ---
