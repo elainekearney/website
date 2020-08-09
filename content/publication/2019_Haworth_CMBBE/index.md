@@ -28,7 +28,7 @@ tags:
 title: "Electromagnetic articulography (EMA) for real-time feedback application: Computational techniques"
 url_code: ""
 url_dataset: ""
-url_pdf: "/files/Haworth_CMBBE_2019_AcceptedManuscript.pdf"
+url_pdf: "/files/Haworth_CMBBE_2019.pdf"
 url_poster: ""
 url_project: ""
 url_slides: ""
