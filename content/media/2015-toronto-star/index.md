@@ -2,7 +2,7 @@
 date: "2015-05-31T00:00:00Z"
 external_link: ""
 image:
-  caption: Photo by Jakob Owens on Unsplash
+  caption: Photo by Richard Lautens, Toronto Star
   focal_point: Smart
 links:
 - icon: newspaper
