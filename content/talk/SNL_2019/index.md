@@ -36,7 +36,7 @@ tags:
 - speech motor control
 title: "SimpleDIVA: A 3-parameter model for examining adaptation in speech and voice production"
 #url_code: ""
-url_pdf: "files/SimpleDIVA_EKearney_SNL_2019.pdf"
+url_pdf: "files/Kearney_SNL_2019.pdf"
 #url_slides: ""
 #url_video: ""
 ---
