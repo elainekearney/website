@@ -17,8 +17,8 @@ date: "2020-01-01T00:00:00Z"
 doi: "10.3389/fpsyg.2019.02995"
 featured: true
 image:
-  caption: 'Figure 4'
-  focal_point: ""
+  caption: 'Figure 4. SimpleDIVA model fit to data from an F1 adaptation paradigm with masking noise trials'
+  focal_point: "Left"
   preview_only: false
 projects: []
 publication: '*Frontiers in Psychology, 10*(2995), 2039-2053'
