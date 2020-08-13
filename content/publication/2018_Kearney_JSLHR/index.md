@@ -21,7 +21,7 @@ date: "2018-11-08T00:00:00Z"
 doi: "10.1044/2018_JSLHR-S-17-0439"
 featured: false
 image:
-  caption: 
+  caption: "Visual feedback showing tongue movement size during sentence production"
   focal_point: ""
   preview_only: false
 projects: []

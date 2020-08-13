@@ -10,7 +10,7 @@ date: "2019-08-04T00:00:00Z"
 doi: "10.1080/21681163.2018.1434423"
 featured: false
 image:
-  caption: 
+  caption: "Computer-based speech therapy in action"
   focal_point: ""
   preview_only: false
 projects: []
