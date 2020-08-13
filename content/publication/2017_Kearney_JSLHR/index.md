@@ -21,8 +21,8 @@ date: "2017-12-20T00:00:00Z"
 doi: "10.1044/2017_JSLHR-S-17-0075"
 featured: true
 image:
-  caption: 
-  focal_point: ""
+  caption: "Measures of jaw movement size and speed under varying speaking conditions"
+  focal_point: "smart"
   preview_only: false
 projects: []
 publication: '*Journal of Speech, Language and Hearing Research, 60*(12)'
