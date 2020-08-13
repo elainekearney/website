@@ -19,7 +19,7 @@ authors:
 - Y. Yunusova
 date: "2017-12-20T00:00:00Z"
 doi: "10.1044/2017_JSLHR-S-17-0075"
-featured: false
+featured: true
 image:
   caption: 
   focal_point: ""
