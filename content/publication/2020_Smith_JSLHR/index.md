@@ -23,7 +23,7 @@ image:
   focal_point: ""
   preview_only: false
 projects: []
-publication: '**Journal of Speech, Language, and Hearing Research, 63*(7), 2039-2053'
+publication: '*Journal of Speech, Language, and Hearing Research, 63*(7), 2039-2053'
 publication_short: ""
 publication_types:
 - "2"
