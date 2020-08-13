@@ -4,4 +4,4 @@
 .Rproj.user*
 .Ruserdata
 .DS_Store
-content/publication/.DS_Store
+*.DS_Store
