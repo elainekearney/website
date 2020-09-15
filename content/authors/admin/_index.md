@@ -49,4 +49,6 @@ user_groups:
 
 I am a Postdoctoral Research Associate in the Department of Speech, Language, and Hearing Sciences at Boston University. My research investigates the sensorimotor control of speech in acquired motor speech disorders with a view to expanding the evidence-based treatment options available to these populations.
 
-At the Speech Neuroscience Laboratory at Boston University, I am examining the neural correlates of auditory and somatosensory feedback control in speech production in individuals with Parkinson's Disease using functional brain-imaging methods. This line of research has implications for our understanding of both normal and disordered speech motor control, and has the potential to guide future directions of speech rehabilitation research in Parkinson's Disease.
+At the Speech Neuroscience Laboratory, I am examining the neural correlates of auditory and somatosensory feedback control in speech production in individuals with Parkinson's Disease using functional brain-imaging methods. This line of research has implications for our understanding of both normal and disordered speech motor control, and has the potential to guide future directions of speech rehabilitation research in Parkinson's Disease.
+
+Outside of the lab, I am a co-founder of CSDisseminate — a grassroots initiative aimed at promoting the culture of self‑archiving legal versions of research manuscripts in the field of communication sciences and disorders (CSD). You can read more about the initiative and how to get involved at www.CSDisseminate.com.
