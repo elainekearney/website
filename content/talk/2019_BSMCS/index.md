@@ -1,7 +1,7 @@
 ---
 abstract: 
 address:
-  city: Boston
+  city: Boston, MA
   country: USA
 all_day: true
 authors: 
