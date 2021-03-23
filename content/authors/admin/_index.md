@@ -49,4 +49,4 @@ user_groups:
 
 I am a postdoctoral researcher in the Guenther Speech Neuroscience Laboratory at Boston University. My research investigates the sensorimotor control of speech in individuals with and without acquired motor speech disorders. I conduct both basic science and clinical research that capitalizes on my expertise in behavioral, neuroimaging, and computational modeling methods. The long-term goal of my work is to expand the evidence-based speech therapy options available to those living with neurological disorders. 
 
-I am a co-founder of CSDisseminate — a grassroots initiative aimed at promoting the culture of self‑archiving legal versions of research manuscripts in the field of communication sciences and disorders (CSD). You can read more about the initiative and how to get involved at www.CSDisseminate.com.
+I am also a co-founder of CSDisseminate — a grassroots initiative aimed at promoting the culture of self‑archiving legal versions of research manuscripts in the field of communication sciences and disorders (CSD). You can read more about the initiative and how to get involved at www.CSDisseminate.com.
