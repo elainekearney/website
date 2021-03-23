@@ -5,3 +5,12 @@
 .Ruserdata
 .DS_Store
 *.DS_Store
+.DS_Store
+content/.DS_Store
+content/authors/.DS_Store
+content/home/.DS_Store
+content/publication/.DS_Store
+content/talk/.DS_Store
+content/talk/BSMCS_2019/.DS_Store
+content/talk/CMS_2020/.DS_Store
+content/talk/SNL_2019/.DS_Store
