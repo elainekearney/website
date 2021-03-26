@@ -6,7 +6,7 @@ address:
 all_day: false
 authors:
 - E. Kearney
-date: "2021-04-2T09:00:00Z"
+date: "2021-04-22T09:00:00Z"
 date_end: ""
 event: Centre for Language Sciences Speaker Series
 event_url:
@@ -23,7 +23,7 @@ location: Macquarie University
 math: true
 #projects:
 #- internal-project
-#publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2017-01-01T00:00:00Z"
 #slides: example
 summary: 
 tags: 
