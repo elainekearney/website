@@ -19,9 +19,7 @@ interests:
 - Neuroimaging
 name: Elaine Kearney
 organizations:
-- name: Speech Neuroscience Lab, Boston University
-  url: "http://sites.bu.edu/guentherlab/"
-role: Postdoctoral Research Associate
+role: Speech Scientist
 social:
 - icon: envelope
   icon_pack: fas
@@ -47,6 +45,8 @@ user_groups:
 - Visitors
 ---
 
-I am a postdoctoral researcher in the Guenther Speech Neuroscience Laboratory at Boston University. My research investigates the sensorimotor control of speech in individuals with and without acquired motor speech disorders. I conduct both basic science and clinical research that capitalizes on my expertise in behavioral, neuroimaging, and computational modeling methods. The long-term goal of my work is to expand the evidence-based speech therapy options available to those living with neurological disorders. 
+I am a speech scientist investigating the sensorimotor control of speech in individuals with and without acquired motor speech disorders. I conduct both basic science and clinical research that capitalize on my expertise in behavioral, neuroimaging, and computational modeling methods. The long-term goal of my work is to expand the evidence-based speech therapy options available to those living with neurological disorders.
 
 I am also a co-founder of CSDisseminate — a grassroots initiative aimed at promoting the culture of self‑archiving legal versions of research manuscripts in the field of communication sciences and disorders (CSD). You can read more about the initiative and how to get involved at www.CSDisseminate.com.
+
+Starting February 2022, I am available for consulting. Please get in touch with opportunities related to experimental design, data analysis, and open science.
