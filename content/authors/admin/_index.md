@@ -10,18 +10,16 @@ education:
   - course: BSc in Speech and Language Therapy
     institution: University College Cork
     year: 2011
-email: "ekearney@bu.edu"
+email: "elainek.kearney@gmail.com"
 interests:
 - Speech motor control
 - Motor speech disorders
 - Parkinson's disease
 - Speech kinematics
-- Neuroimaging
+- Computational modeling
 name: Elaine Kearney
 organizations:
-- name: Speech Neuroscience Lab, Boston University
-  url: "http://sites.bu.edu/guentherlab/"
-role: Postdoctoral Research Associate
+role: Speech Scientist
 social:
 - icon: envelope
   icon_pack: fas
@@ -47,6 +45,9 @@ user_groups:
 - Visitors
 ---
 
-I am a postdoctoral researcher in the Guenther Speech Neuroscience Laboratory at Boston University. My research investigates the sensorimotor control of speech in individuals with and without acquired motor speech disorders. I conduct both basic science and clinical research that capitalizes on my expertise in behavioral, neuroimaging, and computational modeling methods. The long-term goal of my work is to expand the evidence-based speech therapy options available to those living with neurological disorders. 
+I am a speech scientist interested in the sensorimotor control of speech production. I earned my PhD in speech-language pathology at the University of Toronto (advisor: Dr. Yana Yunusova) and completed postdoctoral training in speech neuroscience at Boston University (advisor: Dr. Frank Guenther). My research program investigates the brain mechanisms underlying acquired motor speech disorders, with the long-term goal of expanding the evidence-based speech therapy options available to those living with neurological disorders.
 
-I am also a co-founder of CSDisseminate — a grassroots initiative aimed at promoting the culture of self‑archiving legal versions of research manuscripts in the field of communication sciences and disorders (CSD). You can read more about the initiative and how to get involved at www.CSDisseminate.com.
+
+
+As of 2022, I am available for scientific consulting, particularly in the areas of experimental design and detailed analysis (acoustic, kinematic, computational modeling) and interpretation of data for studies of speech production. 
+
