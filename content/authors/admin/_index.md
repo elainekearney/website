@@ -10,13 +10,13 @@ education:
   - course: BSc in Speech and Language Therapy
     institution: University College Cork
     year: 2011
-email: "ekearney@bu.edu"
+email: "elainek.kearney@gmail.com"
 interests:
 - Speech motor control
 - Motor speech disorders
 - Parkinson's disease
 - Speech kinematics
-- Neuroimaging
+- Computational modeling
 name: Elaine Kearney
 organizations:
 role: Speech Scientist
@@ -50,3 +50,4 @@ I am a speech scientist interested in the sensorimotor control of speech product
 
 
 As of 2022, I am available for scientific consulting, particularly in the areas of experimental design and detailed analysis (acoustic, kinematic, computational modeling) and interpretation of data for studies of speech production. 
+
