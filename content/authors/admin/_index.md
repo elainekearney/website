@@ -45,11 +45,7 @@ user_groups:
 - Visitors
 ---
 
-I am a speech scientist interested in the sensorimotor control of speech production. I earned my PhD in speech-language pathology at the University of Toronto (advisor: Dr. Yana Yunusova) and completed postdoctoral training in speech neuroscience at Boston University (advisor: Dr. Frank Guenther). My research program aims to investigate the brain mechanisms underlying acquired motor speech disorders, with the long-term goal of expanding the evidence-based speech therapy options available to those living with neurological disorders.
-
-
-
-#Beyond speech and brains, I am fascinated by how we conduct science (also known as meta-science). I am #an advocate for reproducible and transparent research practices and, as part of this work, co-founded #CSDisseminate in 2020. CSDisseminate ([www.CSDisseminate.com](http://www.CSDisseminate.com)) is a grassroots initiative aimed at #promoting the culture of self‑archiving legal versions of research manuscripts in the field of #communication sciences and disorders (CSD). One piece of the open science puzzle!
+I am a speech scientist interested in the sensorimotor control of speech production. I earned my PhD in speech-language pathology at the University of Toronto (advisor: Dr. Yana Yunusova) and completed postdoctoral training in speech neuroscience at Boston University (advisor: Dr. Frank Guenther). My research program investigates the brain mechanisms underlying acquired motor speech disorders, with the long-term goal of expanding the evidence-based speech therapy options available to those living with neurological disorders.
 
 
 
