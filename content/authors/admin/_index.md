@@ -49,7 +49,7 @@ I am a speech scientist interested in the sensorimotor control of speech product
 
 
 
-Beyond speech and brains, I am fascinated by how we conduct science (also known as meta-science). I am an advocate for reproducible and transparent research practices and, as part of this work, co-founded CSDisseminate in 2020. CSDisseminate ([www.CSDisseminate.com](http://www.CSDisseminate.com)) is a grassroots initiative aimed at promoting the culture of self‑archiving legal versions of research manuscripts in the field of communication sciences and disorders (CSD). One piece of the open science puzzle!
+#Beyond speech and brains, I am fascinated by how we conduct science (also known as meta-science). I am #an advocate for reproducible and transparent research practices and, as part of this work, co-founded #CSDisseminate in 2020. CSDisseminate ([www.CSDisseminate.com](http://www.CSDisseminate.com)) is a grassroots initiative aimed at #promoting the culture of self‑archiving legal versions of research manuscripts in the field of #communication sciences and disorders (CSD). One piece of the open science puzzle!
 
 
 
