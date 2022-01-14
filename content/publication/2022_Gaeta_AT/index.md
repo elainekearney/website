@@ -5,7 +5,7 @@ authors:
 - D. Pfeiffer
 - E. Kearney
 date: "2022-01-01T00:00:00Z"
-doi: "https://www.audiology.org/news-and-publications/audiology-today/articles/opinion-editorial-enhancing-accessibility-of-communication-sciences-and-disorders-research-open-access-and-self-archiving/"
+doi: ""
 featured: false
 image:
   caption: "jon-moore-bBavss4ZQcA-unsplash"
@@ -15,7 +15,7 @@ projects: []
 publication: '*Audiology Today*'
 publication_short: ""
 publication_types:
-- "2"
+- "0"
 publishDate:
 slides: 
 summary:
@@ -23,13 +23,13 @@ tags:
 - open access
 - self-archiving
 - open science
-title: "Enhancing Accessibility of Communication Sciences and Disorders Research: Open Access and Self-Archiving"
+title: "Enhancing accessibility of communication sciences and disorders research: Open access and self-archiving"
 url_code: ""
 url_dataset: ""
 url_pdf: "/files/Gaeta-et-al-Audiology-Today-2022-Accepted-Manuscript.pdf"
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: ""
+url_source: "https://www.audiology.org/news-and-publications/audiology-today/articles/opinion-editorial-enhancing-accessibility-of-communication-sciences-and-disorders-research-open-access-and-self-archiving/"
 url_video: ""
 ---
