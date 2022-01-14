@@ -5,7 +5,7 @@ authors:
 - D. Pfeiffer
 - E. Kearney
 date: "2022-01-01T00:00:00Z"
-url: "https://www.audiology.org/news-and-publications/audiology-today/articles/opinion-editorial-enhancing-accessibility-of-communication-sciences-and-disorders-research-open-access-and-self-archiving/"
+doi: "https://www.audiology.org/news-and-publications/audiology-today/articles/opinion-editorial-enhancing-accessibility-of-communication-sciences-and-disorders-research-open-access-and-self-archiving/"
 featured: false
 image:
   caption: "jon-moore-bBavss4ZQcA-unsplash"
