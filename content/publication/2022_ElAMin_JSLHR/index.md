@@ -16,7 +16,7 @@ authors:
 - H. Long
 - M.A. Keller
 - E. Kearney
-date: "2022-01-01T00:00:00Z"
+date: "2022-01-28T00:00:00Z"
 doi: "https://doi.org/10.31219/osf.io/jwba3"
 featured: false
 image:
@@ -24,7 +24,7 @@ image:
   focal_point: ""
   preview_only: false
 projects: []
-publication: '*OSF Preprints'
+publication: '*OSF Preprints*'
 publication_short: ""
 publication_types:
 - "2"
