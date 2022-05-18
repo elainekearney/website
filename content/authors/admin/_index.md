@@ -49,5 +49,5 @@ I am a speech scientist interested in the sensorimotor control of speech product
 
 
 
-As of 2022, I am available for scientific consulting, particularly in the areas of experimental design and detailed analysis (acoustic, kinematic, computational modeling) and interpretation of data for studies of speech production. 
+I recently joined the Language, Cognition, and Brain Sciences Laboratory at the Queensland University of Technology as a research fellow (advisor: Dr. Greig de Zubicaray). I am also  available for scientific consulting, particularly in the areas of experimental design and detailed analysis (acoustic, kinematic, computational modeling) and interpretation of data for studies of speech production. 
 
