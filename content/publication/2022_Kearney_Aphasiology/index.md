@@ -44,7 +44,7 @@ tags:
 title: "Brain Lesions Associated with Communication-Related Quality of Life Following Surgical Removal of Primary Left-Hemisphere Tumours"
 url_code: ""
 url_dataset: ""
-url_pdf: "static/files/Kearney-Aphasiology-2022-accepted-manuscript.pdf"
+url_pdf: "files/Kearney-Aphasiology-2022-accepted-manuscript.pdf"
 url_poster: ""
 url_project: "https://osf.io/h5s9z/"
 url_slides: ""
