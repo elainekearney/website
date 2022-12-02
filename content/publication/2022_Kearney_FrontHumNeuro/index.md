@@ -21,7 +21,7 @@ authors:
 - F. H. Guenther
 date: "2022-11-02T00:00:00Z"
 doi: "https://doi.org/10.3389/fnhum.2022.929687"
-featured: true
+featured: false
 image:
   caption: "Figure 2. Group mean data and model fit for Study 1"
   focal_point: ""
