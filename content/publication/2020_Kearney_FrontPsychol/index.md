@@ -15,7 +15,7 @@ authors:
 - F.H. Guenther
 date: "2020-01-01T00:00:00Z"
 doi: "10.3389/fpsyg.2019.02995"
-featured: true
+featured: false
 image:
   caption: 'Figure 4. SimpleDIVA model fit to data from an F1 adaptation paradigm'
   focal_point: "Smart"
