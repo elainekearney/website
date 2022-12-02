@@ -21,7 +21,7 @@ date: "2022-11-23T00:00:00Z"
 doi: "https://doi.org/10.1044/2022_JSLHR-22-00062"
 featured: true
 image:
-  caption: 
+  caption: "Figure 7. Comparison of knowledge between open science practices."
   focal_point: ""
   preview_only: false
 projects: []
