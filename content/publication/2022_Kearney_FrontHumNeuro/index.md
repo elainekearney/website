@@ -19,9 +19,8 @@ authors:
 - E. S. Heller Murray
 - D. J. Smith
 - F. H. Guenther
-
 date: "2022-11-02T00:00:00Z"
-doi:"https://doi.org/10.3389/fnhum.2022.929687"
+doi: "https://doi.org/10.3389/fnhum.2022.929687"
 featured: true
 image:
   caption: "Figure 2. Group mean data and model fit for Study 1"
