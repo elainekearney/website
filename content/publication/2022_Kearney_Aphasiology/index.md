@@ -41,7 +41,7 @@ tags:
 - neuroimaging
 - lesion-symptom mapping
 - white matter
-title: "Brain Lesions Associated with Communication-Related Quality of Life Following Surgical Removal of Primary Left-Hemisphere Tumours"
+title: "Brain lesions sssociated with communication-related quality of life following surgical removal of primary left-hemisphere tumours"
 url_code: ""
 url_dataset: ""
 url_pdf: "files/Kearney-Aphasiology-2022-accepted-manuscript.pdf"

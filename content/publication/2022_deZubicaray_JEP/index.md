@@ -28,7 +28,7 @@ tags:
 - body-object interaction
 - sensorimotor
 - word recognition
-title: "On the roles of form systematicity and sensorimotoreffects in language processing"
+title: "On the roles of form systematicity and sensorimotor effects in language processing"
 url_code: ""
 url_dataset: ""
 url_pdf: "https://osf.io/tmskr"
