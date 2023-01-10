@@ -8,7 +8,7 @@ abstract: "**Background.** Long-term health-related quality of life (HRQoL) is a
 authors:
 - E. Kearney
 - S. L. E. Brownsett
-- David A. Copland
+- D. A. Copland
 - K. J. Drummond
 - R. L. Jeffree
 - S. Olson
@@ -16,7 +16,7 @@ authors:
 - B. Ong
 - G. A. Robinson
 - V. Tolkacheva
-- Katie L. McMahon
+- K. L. McMahon
 - G. I. de Zubicaray
 date: "2022-11-28T00:00:00Z"
 doi: "https://doi.org/10.1080/02687038.2022.2145844"
