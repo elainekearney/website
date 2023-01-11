@@ -31,7 +31,7 @@ tags:
 title: "On the roles of form systematicity and sensorimotor effects in language processing"
 url_code: ""
 url_dataset: ""
-url_pdf: "https://osf.io/tmskr"
+url_pdf: "https://osf.io/g8pzq"
 url_poster: ""
 url_project: "https://osf.io/n5ye9/"
 url_slides: ""
