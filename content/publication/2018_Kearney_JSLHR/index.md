@@ -25,7 +25,7 @@ image:
   focal_point: ""
   preview_only: false
 projects: []
-publication: '*Journal of Speech, Language and Hearing Research, 61*(11)'
+publication: '*Journal of Speech, Language and Hearing Research, 61*(11), 2703-2721'
 publication_short: ""
 publication_types:
 - "2"

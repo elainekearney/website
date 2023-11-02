@@ -23,7 +23,7 @@ image:
   focal_point: ""
   preview_only: false
 projects: []
-publication: '*Disability and Rehabilitation, 41*(9)'
+publication: '*Disability and Rehabilitation, 41*(9), 995-1011'
 publication_short: ""
 publication_types:
 - "2"

@@ -14,7 +14,7 @@ image:
   focal_point: ""
   preview_only: false
 projects: []
-publication: '*Computer Methods in Biomechanics and Biomedical Engineering: Imaging & Visualization, 7*(4)'
+publication: '*Computer Methods in Biomechanics and Biomedical Engineering: Imaging & Visualization, 7*(4), 406-413'
 publication_short: ""
 publication_types:
 - "2"

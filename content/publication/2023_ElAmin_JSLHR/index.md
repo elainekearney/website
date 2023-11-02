@@ -17,7 +17,7 @@ authors:
 - H. Long
 - M.A. Keller
 - E. Kearney
-date: "2022-11-23T00:00:00Z"
+date: "2023-06-20T00:00:00Z"
 doi: "https://doi.org/10.1044/2022_JSLHR-22-00062"
 featured: true
 image:
@@ -25,7 +25,7 @@ image:
   focal_point: ""
   preview_only: false
 projects: []
-publication: '*Journal of Speech, Language, and Hearing Research*'
+publication: '*Journal of Speech, Language, and Hearing Research, 66*(6), 1928-1947'
 publication_short: ""
 publication_types:
 - "2"

@@ -25,7 +25,7 @@ image:
   focal_point: ""
   preview_only: false
 projects: []
-publication: '*Developmental Neurorehabilitation, 18*(5)'
+publication: '*Developmental Neurorehabilitation, 18*(5), 296-303'
 publication_short: ""
 publication_types:
 - "2"

@@ -25,7 +25,7 @@ image:
   focal_point: ""
   preview_only: false
 projects: []
-publication: '*Journal of Speech, Language and Hearing Research, 60*(6S)'
+publication: '*Journal of Speech, Language and Hearing Research, 60*(6S), 1818-1825'
 publication_short: ""
 publication_types:
 - "2"

@@ -22,7 +22,7 @@ image:
   focal_point: ""
   preview_only: false
 projects: []
-publication: '*Language, Cognition and Neuroscience, 34*(9)'
+publication: '*Language, Cognition and Neuroscience, 34*(9), 1214-1229'
 publication_short: ""
 publication_types:
 - "2"
