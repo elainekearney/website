@@ -13,7 +13,7 @@ image:
   focal_point: ""
   preview_only: false
 projects: []
-publication: '*International Journal of Speech-language Pathology, 16*(6)'
+publication: '*International Journal of Speech-language Pathology, 16*(6), 562-570'
 publication_short: ""
 publication_types:
 - "2"

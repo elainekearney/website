@@ -14,7 +14,7 @@ image:
   focal_point: ""
   preview_only: false
 projects: []
-publication: '*Current Developmental Disorders Reports, 2*(3)'
+publication: '*Current Developmental Disorders Reports, 2*(3), 253–272'
 publication_short: ""
 publication_types:
 - "2"

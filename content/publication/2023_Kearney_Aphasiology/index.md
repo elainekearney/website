@@ -18,7 +18,7 @@ authors:
 - V. Tolkacheva
 - K. L. McMahon
 - G. I. de Zubicaray
-date: "2022-11-28T00:00:00Z"
+date: "2023-10-01T00:00:00Z"
 doi: "https://doi.org/10.1080/02687038.2022.2145844"
 featured: false
 image:
@@ -26,7 +26,7 @@ image:
   focal_point: ""
   preview_only: false
 projects: []
-publication: '*Aphasiology*'
+publication: '*Aphasiology, 37*(12), 2029-2049'
 publication_short: ""
 publication_types:
 - "2"

@@ -7,7 +7,7 @@ authors:
 - E. Kearney
 - F. H. Guenther
 - K. L. McMahon
-date: "2022-12-22T00:00:00Z"
+date: "2023-01-01T00:00:00Z"
 doi: "https://doi.org/10.1037/xlm0001201"
 featured: false
 image:
@@ -15,7 +15,7 @@ image:
   focal_point: ""
   preview_only: false
 projects: []
-publication: '*Journal of Experimental Psychology: Learning, Memory, and Cognition*'
+publication: '*Journal of Experimental Psychology: Learning, Memory, and Cognition, 49*(3), 431-444'
 publication_short: ""
 publication_types:
 - "2"
