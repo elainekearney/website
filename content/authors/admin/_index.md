@@ -45,9 +45,13 @@ user_groups:
 - Visitors
 ---
 
-I am a speech scientist interested in the sensorimotor control of speech production. I earned my PhD in speech-language pathology at the University of Toronto (advisor: Dr. Yana Yunusova) and completed postdoctoral training in speech neuroscience at Boston University (advisor: Dr. Frank Guenther). My research program investigates the brain mechanisms underlying acquired motor speech disorders, with the long-term goal of expanding the evidence-based speech therapy options available to those living with neurological disorders.
+I am a Conjoint Research Fellow in Speech Pathology between the University of Queensland and Princess Alexandra Hospital in Brisbane, Australia. My background is as a speech pathologist and speech scientist. For the longest time, I have been fascinated with how we so effortlessly transform thoughts and ideas into words and sounds and can be instantaneously understood by those around us. For many experiencing neurological changes, however, their ability to communicate can change over night and what once was an automatic task becomes significantly challenging.
 
 
 
-I recently joined Queensland University of Technology as a research fellow, where I am collaborating with Dr. Greig de Zubicaray and Dr. Katie McMahon on studies investigating language outcomes following brain tumour surgery. I am also  available for scientific consulting, particularly in the areas of experimental design and detailed analysis (acoustic, kinematic, computational modeling) and interpretation of data for studies of speech production. 
+At the University of Queensland, I am building a research program that (1) investigates the brain mechanisms underlying acquired motor speech disorders, and (2) develops and evaluates evidence-based speech therapy options for those living with neurological disorders. I conduct both basic science and clinical research using a broad range of methods (e.g., acoustic, neuroimaging, computational modelling), and I am committed to conducting rigorous, transparent, and accessible science.
+
+
+
+At Princess Alexandra Hospital, I facilitate research in the Speech Pathology department, specifically mentoring speech pathologists in building research capacity and establishing a stronger evidence base for their clinical practise. This work focuses on knowledge translation and implementation science; making real-world change in the healthcare setting.
 
