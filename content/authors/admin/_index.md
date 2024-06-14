@@ -49,7 +49,7 @@ I am a Conjoint Research Fellow in Speech Pathology between the University of Qu
 
 
 
-At the University of Queensland, I am building a research program that (1) investigates the brain mechanisms underlying acquired motor speech disorders, and (2) develops and evaluates evidence-based speech therapy options for those living with neurological disorders. I conduct both basic science and clinical research using a broad range of methods (e.g., acoustic, neuroimaging, computational modelling), and I am committed to conducting rigorous, transparent and accessible science.
+At the University of Queensland, I am building a research program that (1) investigates the brain mechanisms underlying acquired motor speech disorders, and (2) develops and evaluates evidence-based speech therapy options for those living with neurological disorders. I conduct both basic science and clinical research using a broad range of methods (e.g., acoustic, neuroimaging, computational modelling), and I am committed to conducting rigorous, transparent, and accessible science.
 
 
 
