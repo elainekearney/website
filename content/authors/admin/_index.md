@@ -19,7 +19,7 @@ interests:
 - Computational modeling
 name: Elaine Kearney
 organizations:
-role: Speech Scientist
+role: Research Fellow
 social:
 - icon: envelope
   icon_pack: fas
