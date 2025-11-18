@@ -42,7 +42,7 @@ tags:
 - scientists
 - communication sciences and disorders
 - focus group
-title: ""1-800-Help-Me-With-Open-Science-Stuff": A Qualitative Examination of Open Science Practices in Communication Sciences and Disorders"
+title: "1-800-Help-Me-With-Open-Science-Stuff: A Qualitative Examination of Open Science Practices in Communication Sciences and Disorders"
 url_code: ""
 url_dataset: ""
 url_pdf: "https://osf.io/preprints/osf/9kxa7_v1"
