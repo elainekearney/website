@@ -1,0 +1,39 @@
+---
+abstract: "How do we represent and process abstract and concrete concepts? The “concreteness effect”, in which words with more concrete meanings are processed more quickly and accurately across a range of language tasks compared to abstract ones, suggests a differential conceptual organization of these words in the brain. However, concrete words tend to be marked by specific phonotactic features, such as having fewer syllables and more phonological neighbours. It is unclear whether these non-arbitrary form-meaning relationships that systematically denote the concreteness of a word impact language processing. In the current study, we first establish the extent of systematic mappings between phonological/phonetic features and concreteness ratings in a large set of monosyllabic and polysyllabic English words (i.e., concreteness form typicality), then demonstrate that they significantly influence lexical processing using behavioural megastudy datasets. Surface form features predicted a significant proportion of variance in concreteness ratings of monomorphemic words (25%) which increased with the addition of polymorphemic forms (43%). In addition, concreteness form typicality was a significant predictor of performance on visual and auditory lexical decision, naming, and semantic (concrete/abstract) decision tasks, after controlling for a range of psycholinguistic variables and concreteness ratings. Overall, our results provide the first evidence that concreteness form typicality influences lexical processing. We discuss theoretical implications for interpretations of the concreteness effect and models of language processing that have yet to incorporate non-arbitrary relationships between form and meaning into their feature sets."
+
+authors:
+- E. Kearney
+- K. L. Mahon
+- F. H. Guenther
+- J. Arciuli
+- G. I. de Zubicaray
+date: "2025-01-01T00:00:00Z"
+doi: "https://doi.org/10.1016/j.cognition.2024.105972"
+featured: false
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: false
+projects: []
+publication: '*Cognition, 254*, 105972'
+publication_short: ""
+publication_types:
+- "2"
+publishDate:
+slides: 
+summary:
+tags:
+- concreteness
+- phonological typicality
+- megastudy
+- surface form
+title: "Revisiting the concreteness effect: Non-arbitrary mappings between form and concreteness of English words influence lexical processing"
+url_code: ""
+url_dataset: ""
+url_pdf: "https://doi.org/10.1016/j.cognition.2024.105972"
+url_poster: ""
+url_project: "https://osf.io/hky38/"
+url_slides: ""
+url_source: ""
+url_video: ""
+---
