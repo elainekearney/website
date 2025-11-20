@@ -19,7 +19,7 @@ authors:
 - E. Kearney
 date: "2023-06-20T00:00:00Z"
 doi: "https://doi.org/10.1044/2022_JSLHR-22-00062"
-featured: true
+featured: false
 image:
   caption: "Figure 7. Comparison of knowledge between open science practices."
   focal_point: ""
